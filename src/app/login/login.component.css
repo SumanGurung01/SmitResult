@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(234,234,234);
+}
+.body{
+    padding: 14% 32% 3% 32%;
+}
+
+mat-form-field{
+    width: 100%;
+}
+
+mat-select{
+    font-size: 14px;
+}
+
+form{
+    padding: 5%;
+    border-radius: 5px;
+    box-shadow: rgb(171,171,171) 3px 3px 9px;
+}
+
+button{
+    width: 100%;
+    background-color: #EA2A81 ;
+    color:white;
+}
+
+@media (max-width:600px)
+{
+    .body{
+        padding: 28% 7% 7% 7%;
+    }
+}

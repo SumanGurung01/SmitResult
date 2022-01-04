@@ -1,0 +1,73 @@
+.body{
+    padding: 14% 30% 3% 30%; 
+}
+
+.result-box{
+    padding: 3px 0px 3px 0px;
+}
+.reg_no{
+    width:100%;
+    padding-top: 14px;
+    background-color: #EA2A81;
+    color: white;
+    justify-content: center;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 3px;
+}
+.row{
+    display:flex;
+}
+
+.subname{
+    width: 90%;
+    font-size: 14px;
+}
+
+.grade{
+    width: 10%;
+    padding: 5px 5px 5px 9px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #EA2A81;
+}
+
+.submark{
+    padding: 3px 3px 3px 3%;
+    width:23%;
+    margin: 0px 5px 0px 0px;
+    background-color: #EA2A81;
+    border-radius: 5px;
+    color: white;
+}
+
+.gpa{
+    width : 100%;
+    background-color: #EA2A81;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    height: 30px;
+    padding-top: 14px;
+    border-radius: 3px;
+}
+
+.subject{
+    padding: 14px;
+    margin: 5px 0px 5px 0px;
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: rgb(162,162,162) 3px 3px 3px;
+}
+
+.result{
+    padding: 17px;
+    background-color: rgb(234,234,234);
+    border-radius: 7px;
+}
+
+@media (max-width:600px){
+    .body{
+        padding: 17% 3% 3% 3%; 
+    }
+}

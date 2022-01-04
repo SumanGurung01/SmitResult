@@ -1,0 +1,32 @@
+<div class="body">
+    <form #userData="ngForm" (ngSubmit)="getValues(userData.value)">
+        <mat-form-field class="example-full-width" appearance="fill">
+          <mat-label>Registration Number</mat-label>
+          <input matInput required name="regno" ngModel>
+        </mat-form-field>
+        <br>
+        <mat-form-field appearance="fill">
+            <mat-label>Select Examination</mat-label>
+            <mat-select matNativeControl name="examname" ngModel required>
+                <mat-option value="july_aug_2021_sup_exam">2021-JULY/AUGUST SUPPLEMENTARY EXAMINATION</mat-option>
+                <mat-option value="aug_2021_exam">2021-AUGUST SEMESTER EXAMINATIONS (ALL SECOND SEMESTER)</mat-option>
+                <mat-option value="may_june_2021_exam">2021-MAY/JUNE SEMESTER EXAMINATIONS</mat-option>
+                <mat-option value="march_2021_exam">2021-MARCHSEMESTER EXAMINATIONS (FIRST YEAR)</mat-option>
+                <mat-option value="jan_2021_sup_exam">2021-JANUARY SUPPLEMENTARY EXAMINATIONS</mat-option>
+                <mat-option value="nov_dec_2020_exam">2020-NOVEMBER/DECEMBER SEMESTER EXAMINATION</mat-option>
+                <mat-option value="july_aug_2020_sup_exam">2020-SUPPLEMENTARY JULY/AUGUST EXAMINATIONS</mat-option>
+                <mat-option value="may_june_2020_exam">2020-MAY/JUNE SEMESTER EXAMINATIONS</mat-option>
+                <mat-option value="jan_2020_sup_exam">2020-SUPPLEMENTARY JANUARY EXAMINATIONS</mat-option>
+                <mat-option value="nov_dec_2019_exam">2019-NOVEMBER/DECEMBER SEMESTER EXAMINATION</mat-option>
+            </mat-select>
+          </mat-form-field>
+          <br>
+          
+          <button mat-raised-button>View Result</button>
+    </form>
+
+</div>
+
+
+
+

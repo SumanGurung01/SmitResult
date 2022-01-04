@@ -1,0 +1,43 @@
+.heading{
+    width : 100%;
+    position: fixed;
+    background-color: #EA2A81;
+}
+
+.icon{
+    padding: 5px 0px 0px 14px;
+}
+
+.link{
+    width: 100%;
+    position: fixed;
+    display : flex;
+    color: white;
+    height: 30px; 
+}
+
+.fa{
+    color: white;
+    font-size: 25px;
+}
+
+.appname{
+    width: 100%;
+    padding-top: 25px;
+    font-weight: bolder;
+    font-size: 35px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+@media (max-width:600px){
+    .heading{
+        height: 11%;
+    }
+    .appname{
+        width: 100%;
+        padding-top: 25px;
+        font-weight: bolder;
+        font-size: 27px;
+    }
+}

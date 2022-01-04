@@ -1,0 +1,5488 @@
+{
+    "201700453": {
+        "BA1106": {
+            "sub": "Comm. Skill",
+            "int": "0.0",
+            "ext": "37.5",
+            "total": "38",
+            "grade": "E"
+        },
+        "CH1163": {
+            "sub": "ENGINEERING CHEMISTRY LAB",
+            "int": "55.0",
+            "ext": "26.0",
+            "total": "81",
+            "grade": "A"
+        },
+        "EC1462": {
+            "sub": "MICROPROCESSOR LAB",
+            "int": "52",
+            "ext": "34.0",
+            "total": "86",
+            "grade": "S"
+        },
+        "EC1463": {
+            "sub": "DIGITAL SYSTEM LAB",
+            "int": "28.929000000000002",
+            "ext": "19.0",
+            "total": "48",
+            "grade": "D"
+        }
+    },
+    "201800248": {
+        "BA1106": {
+            "sub": "Comm. Skill",
+            "int": "18.65",
+            "ext": "41.0",
+            "total": "60",
+            "grade": "C"
+        },
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "14.5",
+            "ext": "28.5",
+            "total": "43",
+            "grade": "E"
+        },
+        "ME1105": {
+            "sub": "Engineering Graphics",
+            "int": "15.82",
+            "ext": "49.0",
+            "total": "65",
+            "grade": "B"
+        },
+        "CS1306": {
+            "sub": "Computer Organization & Architecture",
+            "int": "12.15",
+            "ext": "35.5",
+            "total": "48",
+            "grade": "D"
+        },
+        "CS1405": {
+            "sub": "Des. & Anal. of Algorithms",
+            "int": "12.15",
+            "ext": "25.0",
+            "total": "38",
+            "grade": "E"
+        },
+        "CS1508": {
+            "sub": "Computer Networks I",
+            "int": "33.0",
+            "ext": "42.5",
+            "total": "76",
+            "grade": "A"
+        },
+        "MA1408": {
+            "sub": "Numerical Methods, Complex &  Fourier Analysis",
+            "int": "11.4",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201900074": {
+        "BA1106": {
+            "sub": "Comm. Skill",
+            "int": "14.4",
+            "ext": "39.5",
+            "total": "54",
+            "grade": "D"
+        }
+    },
+    "201900093": {
+        "BA1106": {
+            "sub": "Comm. Skill",
+            "int": "19.8",
+            "ext": "40.5",
+            "total": "61",
+            "grade": "C"
+        }
+    },
+    "201900143": {
+        "BA1106": {
+            "sub": "Comm. Skill",
+            "int": "16.6",
+            "ext": "38.0",
+            "total": "55",
+            "grade": "C"
+        }
+    },
+    "202000026": {
+        "BA1106": {
+            "sub": "Comm. Skill",
+            "int": "33.0",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "202000120": {
+        "BA1106": {
+            "sub": "Comm. Skill",
+            "int": "44.5",
+            "ext": "44.0",
+            "total": "89",
+            "grade": "S"
+        }
+    },
+    "202000164": {
+        "BA1106": {
+            "sub": "Comm. Skill",
+            "int": "45.5",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "202000213": {
+        "BA1106": {
+            "sub": "Comm. Skill",
+            "int": "13.5",
+            "ext": "35.0",
+            "total": "49",
+            "grade": "D"
+        },
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "20.0",
+            "ext": "20.0",
+            "total": "40",
+            "grade": "E"
+        }
+    },
+    "202000257": {
+        "BA1106": {
+            "sub": "Comm. Skill",
+            "int": "47.0",
+            "ext": "36.75",
+            "total": "84",
+            "grade": "A"
+        },
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "50.0",
+            "ext": "28.0",
+            "total": "78",
+            "grade": "A"
+        },
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "41.0",
+            "ext": "25.0",
+            "total": "66",
+            "grade": "B"
+        },
+        "ME1105": {
+            "sub": "Engineering Graphics",
+            "int": "44.65",
+            "ext": "44.0",
+            "total": "89",
+            "grade": "S"
+        },
+        "PH1103": {
+            "sub": "Engineering Physics",
+            "int": "44.0",
+            "ext": "32.0",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "202000303": {
+        "BA1106": {
+            "sub": "Comm. Skill",
+            "int": "45.5",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201800012": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "5.8",
+            "ext": "24.5",
+            "total": "31",
+            "grade": "F"
+        },
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "13.1",
+            "ext": "4.0",
+            "total": "18",
+            "grade": "F"
+        }
+    },
+    "201800031": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "14.7",
+            "ext": "32.25",
+            "total": "47",
+            "grade": "D"
+        },
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "14.2",
+            "ext": "35.0",
+            "total": "50",
+            "grade": "D"
+        },
+        "CS1302": {
+            "sub": "Data Structures",
+            "int": "15.65",
+            "ext": "32.75",
+            "total": "49",
+            "grade": "D"
+        },
+        "CS1306": {
+            "sub": "Computer Organization & Architecture",
+            "int": "16.9",
+            "ext": "38.0",
+            "total": "55",
+            "grade": "C"
+        },
+        "CS1308": {
+            "sub": "OO Concepts & Progg. with C++",
+            "int": "15.0",
+            "ext": "37.75",
+            "total": "53",
+            "grade": "D"
+        }
+    },
+    "201800041": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "14.5",
+            "ext": "32.0",
+            "total": "47",
+            "grade": "D"
+        }
+    },
+    "201800073": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "12.15",
+            "ext": "39.5",
+            "total": "52",
+            "grade": "D"
+        },
+        "EE1109": {
+            "sub": "Elements of Electrical Engineering",
+            "int": "19.2",
+            "ext": "30.0",
+            "total": "50",
+            "grade": "D"
+        }
+    },
+    "201800102": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "7.5",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "CH1108": {
+            "sub": "Chemistry",
+            "int": "16.15",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "EE1109": {
+            "sub": "Elements of Electrical Engineering",
+            "int": "11.5",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "11.9",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "MA1201": {
+            "sub": "Engineering Mathematics II",
+            "int": "12.5",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "PH1103": {
+            "sub": "Engg. Physics",
+            "int": "21.85",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "CS1302": {
+            "sub": "Data Structures",
+            "int": "45.0",
+            "ext": "25.25",
+            "total": "71",
+            "grade": "B"
+        }
+    },
+    "201800124": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "17.1",
+            "ext": "29.5",
+            "total": "47",
+            "grade": "D"
+        },
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "20.3",
+            "ext": "19.25",
+            "total": "40",
+            "grade": "E"
+        },
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "18.8",
+            "ext": "11.0",
+            "total": "30",
+            "grade": "F"
+        }
+    },
+    "201800196": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "17.35",
+            "ext": "34.25",
+            "total": "52",
+            "grade": "D"
+        },
+        "PH1103": {
+            "sub": "Engg. Physics",
+            "int": "20.25",
+            "ext": "19.0",
+            "total": "40",
+            "grade": "E"
+        },
+        "CE1601": {
+            "sub": "Geotechnical Engg. II",
+            "int": "38",
+            "ext": "15.25",
+            "total": "54",
+            "grade": "D"
+        },
+        "CE1461": {
+            "sub": "FLUID MECHANICS LAB I",
+            "int": "41",
+            "ext": "27.0",
+            "total": "68",
+            "grade": "B"
+        },
+        "CE1462": {
+            "sub": "MATERIAL TESTING LAB II",
+            "int": "42",
+            "ext": "19.0",
+            "total": "61",
+            "grade": "C"
+        }
+    },
+    "201800250": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "15.6",
+            "ext": "32.25",
+            "total": "48",
+            "grade": "D"
+        },
+        "PH1103": {
+            "sub": "Engg. Physics",
+            "int": "19.6",
+            "ext": "27.0",
+            "total": "47",
+            "grade": "D"
+        }
+    },
+    "201800252": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "16.7",
+            "ext": "34.0",
+            "total": "51",
+            "grade": "D"
+        },
+        "ME1105": {
+            "sub": "Engineering Graphics",
+            "int": "20.68",
+            "ext": "41.0",
+            "total": "62",
+            "grade": "C"
+        }
+    },
+    "201800329": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "23.0",
+            "ext": "31.5",
+            "total": "55",
+            "grade": "C"
+        },
+        "MA1201": {
+            "sub": "Engineering Mathematics II",
+            "int": "16.2",
+            "ext": "25.5",
+            "total": "42",
+            "grade": "E"
+        }
+    },
+    "201800335": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "20.1",
+            "ext": "26.5",
+            "total": "47",
+            "grade": "D"
+        }
+    },
+    "201800579": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "16.1",
+            "ext": "26.0",
+            "total": "43",
+            "grade": "E"
+        },
+        "PH1103": {
+            "sub": "Engg. Physics",
+            "int": "19.1",
+            "ext": "25.5",
+            "total": "45",
+            "grade": "D"
+        }
+    },
+    "201800631": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "9.6",
+            "ext": "33.5",
+            "total": "44",
+            "grade": "E"
+        },
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "16.8",
+            "ext": "21.0",
+            "total": "38",
+            "grade": "E"
+        },
+        "PH1103": {
+            "sub": "Engg. Physics",
+            "int": "16.35",
+            "ext": "29.0",
+            "total": "46",
+            "grade": "D"
+        }
+    },
+    "201800661": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "14.4",
+            "ext": "29.75",
+            "total": "45",
+            "grade": "D"
+        }
+    },
+    "201900070": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "4.3",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "CH1191": {
+            "sub": "Environmental Science",
+            "int": "14.9",
+            "ext": "25.75",
+            "total": "41",
+            "grade": "E"
+        },
+        "MA1201": {
+            "sub": "Engineering Mathematics II",
+            "int": "16.1",
+            "ext": "1.0",
+            "total": "18",
+            "grade": "F"
+        },
+        "ME1105": {
+            "sub": "Engineering Graphics",
+            "int": "6.62",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "PH1103": {
+            "sub": "Engineering Physics",
+            "int": "9.3",
+            "ext": "3.0",
+            "total": "13",
+            "grade": "F"
+        }
+    },
+    "201900297": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "14.5",
+            "ext": "25.75",
+            "total": "41",
+            "grade": "E"
+        },
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "11.6",
+            "ext": "17.0",
+            "total": "29",
+            "grade": "F"
+        }
+    },
+    "201900411": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "17.6",
+            "ext": "26.25",
+            "total": "44",
+            "grade": "E"
+        }
+    },
+    "202000078": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "47.0",
+            "ext": "38.25",
+            "total": "86",
+            "grade": "S"
+        }
+    },
+    "202000119": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "48.7",
+            "ext": "40.75",
+            "total": "90",
+            "grade": "S"
+        }
+    },
+    "202000173": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "50.0",
+            "ext": "36.25",
+            "total": "87",
+            "grade": "S"
+        }
+    },
+    "202000198": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "47.7",
+            "ext": "37.25",
+            "total": "85",
+            "grade": "S"
+        }
+    },
+    "201500254": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "14.0",
+            "ext": "34.5",
+            "total": "49",
+            "grade": "D"
+        }
+    },
+    "201700163": {
+        "CE1102": {
+            "sub": "Mechanics of Solid",
+            "int": "7.1",
+            "ext": "27.5",
+            "total": "35",
+            "grade": "E"
+        },
+        "MA1302": {
+            "sub": "Engg. Mathematics III",
+            "int": "17.5",
+            "ext": "8.0",
+            "total": "26",
+            "grade": "F"
+        },
+        "MA1404": {
+            "sub": "Engg. Maths. IV",
+            "int": "18.6",
+            "ext": "8.5",
+            "total": "28",
+            "grade": "F"
+        },
+        "IT1461": {
+            "sub": "OOP WITH C++ LAB",
+            "int": "50",
+            "ext": "30.0",
+            "total": "80",
+            "grade": "A"
+        },
+        "IT1462": {
+            "sub": "DATABASE MANAGEMENT SYSTEM LAB",
+            "int": "45.5",
+            "ext": "31.0",
+            "total": "77",
+            "grade": "A"
+        },
+        "IT1662": {
+            "sub": "COMPUTER NETWORKS LAB",
+            "int": "49",
+            "ext": "36.0",
+            "total": "85",
+            "grade": "S"
+        },
+        "IT1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "68.0",
+            "total": "68",
+            "grade": "B"
+        }
+    },
+    "201900100": {
+        "CH1108": {
+            "sub": "Chemistry",
+            "int": "20.6",
+            "ext": "24.0",
+            "total": "45",
+            "grade": "D"
+        },
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "13.45",
+            "ext": "26.5",
+            "total": "40",
+            "grade": "E"
+        },
+        "EE1109": {
+            "sub": "Elements of Electrical Engineering",
+            "int": "18.3",
+            "ext": "34.0",
+            "total": "53",
+            "grade": "D"
+        },
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "17.5",
+            "ext": "12.0",
+            "total": "30",
+            "grade": "F"
+        },
+        "MA1201": {
+            "sub": "Engineering Mathematics II",
+            "int": "19.0",
+            "ext": "20.0",
+            "total": "39",
+            "grade": "E"
+        }
+    },
+    "201900214": {
+        "CH1108": {
+            "sub": "Chemistry",
+            "int": "17.5",
+            "ext": "12.0",
+            "total": "30",
+            "grade": "F"
+        },
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "17.6",
+            "ext": "1.0",
+            "total": "19",
+            "grade": "F"
+        },
+        "EE1109": {
+            "sub": "Elements of Electrical Engineering",
+            "int": "13.0",
+            "ext": "7.0",
+            "total": "20",
+            "grade": "F"
+        },
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "21.1",
+            "ext": "3.0",
+            "total": "25",
+            "grade": "F"
+        },
+        "MA1201": {
+            "sub": "Engineering Mathematics II",
+            "int": "16.9",
+            "ext": "1.0",
+            "total": "18",
+            "grade": "F"
+        },
+        "PH1103": {
+            "sub": "Engineering Physics",
+            "int": "18.9",
+            "ext": "4.0",
+            "total": "23",
+            "grade": "F"
+        }
+    },
+    "202000535": {
+        "CH1108": {
+            "sub": "Chemistry",
+            "int": "46.9",
+            "ext": "35.75",
+            "total": "83",
+            "grade": "A"
+        },
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "48.0",
+            "ext": "33.0",
+            "total": "81",
+            "grade": "A"
+        }
+    },
+    "20140036": {
+        "CH1191": {
+            "sub": "Environmental Science",
+            "int": "16.7",
+            "ext": "25.0",
+            "total": "42",
+            "grade": "E"
+        },
+        "PH1103": {
+            "sub": "Engg. Physics",
+            "int": "17.55",
+            "ext": "19.5",
+            "total": "38",
+            "grade": "E"
+        },
+        "CS1304": {
+            "sub": "Digital Circuit & Logic Design",
+            "int": "11.4",
+            "ext": "27.0",
+            "total": "39",
+            "grade": "E"
+        },
+        "CS1508": {
+            "sub": "Computer Networks I",
+            "int": "20.9",
+            "ext": "38.0",
+            "total": "59",
+            "grade": "C"
+        },
+        "CS1462": {
+            "sub": "DATABASE MANAGEMENT SYSTEM LAB",
+            "int": "45.5",
+            "ext": "30.0",
+            "total": "76",
+            "grade": "A"
+        },
+        "CS1666": {
+            "sub": "PARALLEL PROGRAMMING LAB",
+            "int": "39.5",
+            "ext": "27.0",
+            "total": "67",
+            "grade": "B"
+        }
+    },
+    "201800176": {
+        "CH1191": {
+            "sub": "Environmental Science",
+            "int": "7.5",
+            "ext": "29.25",
+            "total": "37",
+            "grade": "E"
+        },
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "6.65",
+            "ext": "21.0",
+            "total": "28",
+            "grade": "F"
+        },
+        "EE1109": {
+            "sub": "Elements of Electrical Engineering",
+            "int": "15.7",
+            "ext": "24.0",
+            "total": "40",
+            "grade": "E"
+        },
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "17.4",
+            "ext": "5.0",
+            "total": "23",
+            "grade": "F"
+        },
+        "CS1164": {
+            "sub": "COMPUTER PROGRAMMING LAB",
+            "int": "42.55",
+            "ext": "28",
+            "total": "71",
+            "grade": "B"
+        },
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "38.0",
+            "ext": "32.0",
+            "total": "70",
+            "grade": "B"
+        }
+    },
+    "201900295": {
+        "CH1191": {
+            "sub": "Environmental Science",
+            "int": "12.0",
+            "ext": "28.75",
+            "total": "41",
+            "grade": "E"
+        }
+    },
+    "201900415": {
+        "CH1191": {
+            "sub": "Environmental Science",
+            "int": "12.9",
+            "ext": "30.0",
+            "total": "43",
+            "grade": "E"
+        },
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "6.6",
+            "ext": "35.0",
+            "total": "42",
+            "grade": "E"
+        },
+        "CS1164": {
+            "sub": "COMPUTER PROGRAMMING LAB",
+            "int": "43.09",
+            "ext": "24",
+            "total": "68",
+            "grade": "B"
+        }
+    },
+    "201700277": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "15.15",
+            "ext": "22.0",
+            "total": "38",
+            "grade": "E"
+        }
+    },
+    "201800170": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "16.35",
+            "ext": "22.5",
+            "total": "39",
+            "grade": "E"
+        }
+    },
+    "201800186": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "3.6",
+            "ext": "23.0",
+            "total": "27",
+            "grade": "F"
+        },
+        "ME1105": {
+            "sub": "Engineering Graphics",
+            "int": "19.18",
+            "ext": "35.5",
+            "total": "55",
+            "grade": "C"
+        }
+    },
+    "201800249": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "12.45",
+            "ext": "19.25",
+            "total": "32",
+            "grade": "F"
+        }
+    },
+    "201800314": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "19.05",
+            "ext": "15.5",
+            "total": "35",
+            "grade": "E"
+        }
+    },
+    "201800451": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "18.4",
+            "ext": "21.0",
+            "total": "40",
+            "grade": "E"
+        }
+    },
+    "201800581": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "15.1",
+            "ext": "6.5",
+            "total": "22",
+            "grade": "F"
+        },
+        "PH1103": {
+            "sub": "Engg. Physics",
+            "int": "23.35",
+            "ext": "11.5",
+            "total": "35",
+            "grade": "E"
+        },
+        "EC1308": {
+            "sub": "Network Analysis & Synthesis",
+            "int": "15.9",
+            "ext": "5.0",
+            "total": "21",
+            "grade": "F"
+        },
+        "EC1505": {
+            "sub": "Digital Signal Processing",
+            "int": "16.5",
+            "ext": "6.0",
+            "total": "23",
+            "grade": "F"
+        }
+    },
+    "201800584": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "12.3",
+            "ext": "25.0",
+            "total": "38",
+            "grade": "E"
+        }
+    },
+    "201800590": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "11.9",
+            "ext": "30.0",
+            "total": "42",
+            "grade": "E"
+        },
+        "PH1103": {
+            "sub": "Engg. Physics",
+            "int": "17.05",
+            "ext": "36.0",
+            "total": "54",
+            "grade": "D"
+        }
+    },
+    "201800624": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "14.4",
+            "ext": "23.75",
+            "total": "39",
+            "grade": "E"
+        }
+    },
+    "201800648": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "13.85",
+            "ext": "23.75",
+            "total": "38",
+            "grade": "E"
+        }
+    },
+    "201900160": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "10.3",
+            "ext": "24.0",
+            "total": "35",
+            "grade": "E"
+        }
+    },
+    "201900264": {
+        "CS1110": {
+            "sub": "Computer  Programming Using C",
+            "int": "9.95",
+            "ext": "14.25",
+            "total": "25",
+            "grade": "F"
+        }
+    },
+    "201600265": {
+        "EC1107": {
+            "sub": "Basic Electronics",
+            "int": "15.45",
+            "ext": "22.5",
+            "total": "38",
+            "grade": "E"
+        }
+    },
+    "201700150": {
+        "EC1107": {
+            "sub": "Basic Electronics",
+            "int": "9.5",
+            "ext": "37.5",
+            "total": "47",
+            "grade": "D"
+        },
+        "MA1201": {
+            "sub": "Engg. Maths II",
+            "int": "19.5",
+            "ext": "32.0",
+            "total": "52",
+            "grade": "D"
+        }
+    },
+    "201700441": {
+        "EC1107": {
+            "sub": "Basic Electronics",
+            "int": "15.05",
+            "ext": "33.5",
+            "total": "49",
+            "grade": "D"
+        },
+        "CS1306": {
+            "sub": "Computer Organization & Architecture",
+            "int": "17.7",
+            "ext": "36.5",
+            "total": "55",
+            "grade": "C"
+        },
+        "CS1434": {
+            "sub": "JAVA Programming",
+            "int": "20.8",
+            "ext": "42.25",
+            "total": "64",
+            "grade": "C"
+        },
+        "CS1437": {
+            "sub": "Enterprise Resource Planning",
+            "int": "23.8",
+            "ext": "42.5",
+            "total": "67",
+            "grade": "B"
+        }
+    },
+    "201800022": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "12.2",
+            "ext": "25.0",
+            "total": "38",
+            "grade": "E"
+        }
+    },
+    "201800054": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "10.3",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201900259": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "9.3",
+            "ext": "12.0",
+            "total": "22",
+            "grade": "F"
+        },
+        "ME1361": {
+            "sub": "STRENGTH OF MATERIAL LAB",
+            "int": "41",
+            "ext": "34.0",
+            "total": "75",
+            "grade": "A"
+        },
+        "ME1362": {
+            "sub": "COMPUTATION LAB I",
+            "int": "54",
+            "ext": "32.0",
+            "total": "86",
+            "grade": "S"
+        }
+    },
+    "202000210": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "40.0",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "202000232": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "22.0",
+            "ext": "9.0",
+            "total": "31",
+            "grade": "F"
+        }
+    },
+    "202000284": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "21.0",
+            "ext": "19.0",
+            "total": "40",
+            "grade": "E"
+        }
+    },
+    "202000354": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "18.0",
+            "ext": "18.0",
+            "total": "36",
+            "grade": "E"
+        }
+    },
+    "202000370": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "26.0",
+            "ext": "18.0",
+            "total": "44",
+            "grade": "E"
+        }
+    },
+    "202000510": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "20.0",
+            "ext": "17.0",
+            "total": "37",
+            "grade": "E"
+        }
+    },
+    "202000516": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "23.0",
+            "ext": "19.0",
+            "total": "42",
+            "grade": "E"
+        }
+    },
+    "202000549": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "19.0",
+            "ext": "23.0",
+            "total": "42",
+            "grade": "E"
+        }
+    },
+    "202000553": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "31.0",
+            "ext": "20.0",
+            "total": "51",
+            "grade": "D"
+        }
+    },
+    "20140576": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "15.6",
+            "ext": "19.0",
+            "total": "35",
+            "grade": "E"
+        },
+        "MA1201": {
+            "sub": "Engg. Maths II",
+            "int": "12.6",
+            "ext": "22.25",
+            "total": "35",
+            "grade": "E"
+        },
+        "CS1604": {
+            "sub": "FORMAL LANGUAGES & AUTOMATA THEORY",
+            "int": "8.1",
+            "ext": "30.0",
+            "total": "39",
+            "grade": "E"
+        },
+        "MA1302": {
+            "sub": "Engg. Maths III",
+            "int": "10.9",
+            "ext": "16.0",
+            "total": "27",
+            "grade": "F"
+        }
+    },
+    "20140757": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "14.4",
+            "ext": "20.0",
+            "total": "35",
+            "grade": "E"
+        }
+    },
+    "201500406": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "11.3",
+            "ext": "4.0",
+            "total": "16",
+            "grade": "F"
+        },
+        "EE1502": {
+            "sub": "Linear Control Sys.",
+            "int": "13",
+            "ext": "10.0",
+            "total": "23",
+            "grade": "F"
+        },
+        "EE1507": {
+            "sub": "Principle of Communication",
+            "int": "0",
+            "ext": "14.25",
+            "total": "15",
+            "grade": "F"
+        },
+        "EE1602": {
+            "sub": "Adv. Control Theory",
+            "int": "21.6",
+            "ext": "13.0",
+            "total": "35",
+            "grade": "E"
+        }
+    },
+    "201700133": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "10.0",
+            "ext": "19.0",
+            "total": "29",
+            "grade": "F"
+        },
+        "IT1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "73.0",
+            "total": "73",
+            "grade": "B"
+        }
+    },
+    "201800656": {
+        "MA1101": {
+            "sub": "Engineering Mathematics I",
+            "int": "5.0",
+            "ext": "11.0",
+            "total": "16",
+            "grade": "F"
+        },
+        "CS1306": {
+            "sub": "Computer Organization & Architecture",
+            "int": "9.8",
+            "ext": "28.75",
+            "total": "39",
+            "grade": "E"
+        },
+        "CS1308": {
+            "sub": "OO Concepts & Progg. with C++",
+            "int": "14.8",
+            "ext": "40.5",
+            "total": "56",
+            "grade": "C"
+        },
+        "MA1308": {
+            "sub": "Discrete Mathematics",
+            "int": "7.3",
+            "ext": "1.0",
+            "total": "9",
+            "grade": "F"
+        },
+        "CS1462": {
+            "sub": "DATABASE MANAGEMENT SYSTEM LAB",
+            "int": "44.0",
+            "ext": "30.0",
+            "total": "74",
+            "grade": "B"
+        },
+        "CS1465": {
+            "sub": "ALGORITHM LAB",
+            "int": "44.0",
+            "ext": "21.0",
+            "total": "65",
+            "grade": "B"
+        }
+    },
+    "201800125": {
+        "MA1201": {
+            "sub": "Engineering Mathematics II",
+            "int": "15.8",
+            "ext": "27.0",
+            "total": "43",
+            "grade": "E"
+        },
+        "CH1163": {
+            "sub": "ENGINEERING CHEMISTRY LAB",
+            "int": "54.5",
+            "ext": "27.0",
+            "total": "82",
+            "grade": "A"
+        },
+        "CS1164": {
+            "sub": "COMPUTER PROGRAMMING LAB",
+            "int": "52.36",
+            "ext": "30",
+            "total": "83",
+            "grade": "A"
+        }
+    },
+    "201800256": {
+        "MA1201": {
+            "sub": "Engineering Mathematics II",
+            "int": "18.9",
+            "ext": "21.0",
+            "total": "40",
+            "grade": "E"
+        }
+    },
+    "201800334": {
+        "MA1201": {
+            "sub": "Engineering Mathematics II",
+            "int": "4.1",
+            "ext": "12.25",
+            "total": "17",
+            "grade": "F"
+        },
+        "PH1103": {
+            "sub": "Engg. Physics",
+            "int": "15.5",
+            "ext": "27.5",
+            "total": "43",
+            "grade": "E"
+        },
+        "CE1462": {
+            "sub": "MATERIAL TESTING LAB II",
+            "int": "44",
+            "ext": "19.0",
+            "total": "63",
+            "grade": "C"
+        }
+    },
+    "201800343": {
+        "MA1201": {
+            "sub": "Engineering Mathematics II",
+            "int": "8.9",
+            "ext": "26.0",
+            "total": "35",
+            "grade": "E"
+        },
+        "ME1362": {
+            "sub": "COMPUTATION LAB I",
+            "int": "53",
+            "ext": "31.0",
+            "total": "84",
+            "grade": "A"
+        },
+        "ME1462": {
+            "sub": "COMPUTER GRAPHICS LAB",
+            "int": "42",
+            "ext": "26.0",
+            "total": "68",
+            "grade": "B"
+        }
+    },
+    "201800537": {
+        "MA1201": {
+            "sub": "Engineering Mathematics II",
+            "int": "18.0",
+            "ext": "25.25",
+            "total": "44",
+            "grade": "E"
+        },
+        "BP1391": {
+            "sub": "Constitution of India",
+            "int": "11.5",
+            "ext": "43.75",
+            "total": "56",
+            "grade": "P"
+        },
+        "EC1406": {
+            "sub": "Design & Anal. of Digital Syst.",
+            "int": "13.67",
+            "ext": "22.5",
+            "total": "37",
+            "grade": "E"
+        }
+    },
+    "201900249": {
+        "MA1201": {
+            "sub": "Engineering Mathematics II",
+            "int": "16.9",
+            "ext": "8.0",
+            "total": "25",
+            "grade": "F"
+        }
+    },
+    "20130493": {
+        "MA1201": {
+            "sub": "Engg. Maths II",
+            "int": "4.0",
+            "ext": "10.0",
+            "total": "14",
+            "grade": "F"
+        },
+        "MA1303": {
+            "sub": "Engineering Mathematics III",
+            "int": "12.6",
+            "ext": "9.25",
+            "total": "22",
+            "grade": "F"
+        }
+    },
+    "20130575": {
+        "MA1201": {
+            "sub": "Engg. Maths II",
+            "int": "11.2",
+            "ext": "23.5",
+            "total": "35",
+            "grade": "E"
+        }
+    },
+    "201600313": {
+        "MA1201": {
+            "sub": "Engg. Maths II",
+            "int": "11.0",
+            "ext": "12.0",
+            "total": "23",
+            "grade": "F"
+        },
+        "ME1707": {
+            "sub": "Internal Combustion Engine",
+            "int": "11.7",
+            "ext": "20.0",
+            "total": "32",
+            "grade": "F"
+        },
+        "ME1710": {
+            "sub": "Operations Research",
+            "int": "13.2",
+            "ext": "11.5",
+            "total": "25",
+            "grade": "F"
+        }
+    },
+    "201700271": {
+        "MA1201": {
+            "sub": "Engg. Maths II",
+            "int": "14.9",
+            "ext": "25.0",
+            "total": "40",
+            "grade": "E"
+        }
+    },
+    "201700432": {
+        "MA1201": {
+            "sub": "Engg. Maths II",
+            "int": "4.6",
+            "ext": "19.5",
+            "total": "25",
+            "grade": "F"
+        },
+        "PH1103": {
+            "sub": "Engg. Physics",
+            "int": "13.9",
+            "ext": "29.0",
+            "total": "43",
+            "grade": "E"
+        },
+        "CS1423": {
+            "sub": "Micropro. & Periph. Dev.",
+            "int": "14.9",
+            "ext": "38.75",
+            "total": "54",
+            "grade": "D"
+        },
+        "MA1308": {
+            "sub": "Discrete Mathematics",
+            "int": "9.5",
+            "ext": "18.0",
+            "total": "28",
+            "grade": "F"
+        }
+    },
+    "201900298": {
+        "ME1105": {
+            "sub": "Engineering Graphics",
+            "int": "30.13",
+            "ext": "49.0",
+            "total": "80",
+            "grade": "A"
+        }
+    },
+    "202000138": {
+        "PH1103": {
+            "sub": "Engineering Physics",
+            "int": "41.75",
+            "ext": "34.0",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "202000546": {
+        "PH1103": {
+            "sub": "Engineering Physics",
+            "int": "29.0",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201800030": {
+        "PH1103": {
+            "sub": "Engg. Physics",
+            "int": "17.5",
+            "ext": "21.5",
+            "total": "39",
+            "grade": "E"
+        },
+        "CE1462": {
+            "sub": "MATERIAL TESTING LAB II",
+            "int": "44",
+            "ext": "16.0",
+            "total": "60",
+            "grade": "C"
+        }
+    },
+    "201500048": {
+        "CH1163": {
+            "sub": "ENGINEERING CHEMISTRY LAB",
+            "int": "60.0",
+            "ext": "15.0",
+            "total": "75",
+            "grade": "A"
+        },
+        "CS1164": {
+            "sub": "COMPUTER PROGRAMMING LAB",
+            "int": "62.01",
+            "ext": "18.7",
+            "total": "81",
+            "grade": "A"
+        }
+    },
+    "20140586": {
+        "CS1164": {
+            "sub": "COMPUTER PROGRAMMING LAB",
+            "int": "66.04",
+            "ext": "19.25",
+            "total": "86",
+            "grade": "S"
+        },
+        "CS1666": {
+            "sub": "PARALLEL PROGRAMMING LAB",
+            "int": "42.0",
+            "ext": "30.0",
+            "total": "72",
+            "grade": "B"
+        }
+    },
+    "201600031": {
+        "CS1164": {
+            "sub": "COMPUTER PROGRAMMING LAB",
+            "int": "64.09",
+            "ext": "19.25",
+            "total": "84",
+            "grade": "A"
+        },
+        "IT1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "72.0",
+            "total": "72",
+            "grade": "B"
+        }
+    },
+    "201800017": {
+        "CS1164": {
+            "sub": "COMPUTER PROGRAMMING LAB",
+            "int": "52.36",
+            "ext": "22",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201800029": {
+        "CS1164": {
+            "sub": "COMPUTER PROGRAMMING LAB",
+            "int": "42.55",
+            "ext": "36",
+            "total": "79",
+            "grade": "A"
+        },
+        "PH1162": {
+            "sub": "ENGINEERING PHYSICS LAB",
+            "int": "46.2",
+            "ext": "7.0",
+            "total": "54",
+            "grade": "D"
+        }
+    },
+    "201800094": {
+        "CS1164": {
+            "sub": "COMPUTER PROGRAMMING LAB",
+            "int": "42.27",
+            "ext": "34",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201800299": {
+        "CS1164": {
+            "sub": "COMPUTER PROGRAMMING LAB",
+            "int": "42.0",
+            "ext": "27",
+            "total": "69",
+            "grade": "B"
+        },
+        "ME1305": {
+            "sub": "Mech. Drawing",
+            "int": "17.61",
+            "ext": "43.25",
+            "total": "61",
+            "grade": "C"
+        },
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "37.33",
+            "ext": "36.0",
+            "total": "74",
+            "grade": "B"
+        }
+    },
+    "201900450": {
+        "CS1164": {
+            "sub": "COMPUTER PROGRAMMING LAB",
+            "int": "50.45",
+            "ext": "32",
+            "total": "83",
+            "grade": "A"
+        }
+    },
+    "201800320": {
+        "PH1162": {
+            "sub": "ENGINEERING PHYSICS LAB",
+            "int": "47.4",
+            "ext": "9.0",
+            "total": "57",
+            "grade": "C"
+        }
+    },
+    "201700181": {
+        "CS1304": {
+            "sub": "Digital Circuit & Logic Design",
+            "int": "9.9",
+            "ext": "25.0",
+            "total": "35",
+            "grade": "E"
+        },
+        "MA1308": {
+            "sub": "Discrete Mathematics",
+            "int": "12.0",
+            "ext": "20.0",
+            "total": "32",
+            "grade": "F"
+        },
+        "BP1391": {
+            "sub": "Constitution of India",
+            "int": "12.15",
+            "ext": "46.0",
+            "total": "59",
+            "grade": "P"
+        }
+    },
+    "20130705": {
+        "CS1306": {
+            "sub": "Computer Organization & Architecture",
+            "int": "10.6",
+            "ext": "21.25",
+            "total": "32",
+            "grade": "F"
+        },
+        "CS1728": {
+            "sub": "Distributed Systems",
+            "int": "13.5",
+            "ext": "36.0",
+            "total": "50",
+            "grade": "D"
+        },
+        "MA1302": {
+            "sub": "Engg. Maths III",
+            "int": "11.0",
+            "ext": "16.0",
+            "total": "27",
+            "grade": "F"
+        }
+    },
+    "201900022": {
+        "CS1403": {
+            "sub": "Database Management System",
+            "int": "47.01",
+            "ext": "40.5",
+            "total": "88",
+            "grade": "S"
+        },
+        "MA1408": {
+            "sub": "Numerical Methods, Complex &  Fourier Analysis",
+            "int": "43.0",
+            "ext": "31.25",
+            "total": "75",
+            "grade": "A"
+        },
+        "BP1391": {
+            "sub": "Constitution of India",
+            "int": "42.0",
+            "ext": "35.5",
+            "total": "78",
+            "grade": "P"
+        }
+    },
+    "201800635": {
+        "CS1509": {
+            "sub": "Software Engineering",
+            "int": "48",
+            "ext": "34.5",
+            "total": "83",
+            "grade": "A"
+        }
+    },
+    "201700004": {
+        "CS1641": {
+            "sub": "Social Network Analysis",
+            "int": "25",
+            "ext": "22.0",
+            "total": "47",
+            "grade": "D"
+        }
+    },
+    "201818507": {
+        "CS1723": {
+            "sub": "Big Data",
+            "int": "34",
+            "ext": "19.0",
+            "total": "53",
+            "grade": "D"
+        }
+    },
+    "20130305": {
+        "MA1501": {
+            "sub": "Stochastic Process & Numerical Methods",
+            "int": "6.2",
+            "ext": "19.5",
+            "total": "26",
+            "grade": "F"
+        },
+        "CS1661": {
+            "sub": "OBJECT ORIENTED DESIGN USING UML LABORATORY",
+            "int": "63.9",
+            "ext": "14.0",
+            "total": "78",
+            "grade": "A"
+        },
+        "CS1664": {
+            "sub": "UNIX INT & SHELL PROGG LABORATORY",
+            "int": "46.15",
+            "ext": "10.0",
+            "total": "57",
+            "grade": "C"
+        }
+    },
+    "202014502": {
+        "BP1391": {
+            "sub": "Constitution of India",
+            "int": "44.99",
+            "ext": "31.5",
+            "total": "77",
+            "grade": "P"
+        },
+        "IT1302": {
+            "sub": "Data Structures",
+            "int": "35.52",
+            "ext": "30.5",
+            "total": "67",
+            "grade": "B"
+        },
+        "IT1304": {
+            "sub": "DIGITAL CIRCUITS AND LOGIC DESIGN",
+            "int": "39.53",
+            "ext": "28.5",
+            "total": "69",
+            "grade": "B"
+        },
+        "IT1306": {
+            "sub": "Numerical Tech.",
+            "int": "47.25",
+            "ext": "28.5",
+            "total": "76",
+            "grade": "A"
+        },
+        "IT1308": {
+            "sub": "Computing with Python",
+            "int": "42.52",
+            "ext": "43.25",
+            "total": "86",
+            "grade": "S"
+        },
+        "IT1310": {
+            "sub": "Intro. to Info. Systems & Security",
+            "int": "37",
+            "ext": "25.0",
+            "total": "62",
+            "grade": "C"
+        },
+        "MA1302": {
+            "sub": "Engg. Mathematics III",
+            "int": "34.0",
+            "ext": "8.0",
+            "total": "42",
+            "grade": "E"
+        },
+        "IT1361": {
+            "sub": "DATA STRUCTURES LABORATORY",
+            "int": "59.0",
+            "ext": "27.0",
+            "total": "86",
+            "grade": "S"
+        },
+        "IT1362": {
+            "sub": "DIGITAL CIRCUITS & LOGIC DESIGN LAB",
+            "int": "53.91",
+            "ext": "38.0",
+            "total": "92",
+            "grade": "S"
+        },
+        "IT1363": {
+            "sub": "COMPUTING WITH PYTHON LAB",
+            "int": "52",
+            "ext": "38.0",
+            "total": "90",
+            "grade": "S"
+        }
+    },
+    "202014505": {
+        "BP1391": {
+            "sub": "Constitution of India",
+            "int": "41.98",
+            "ext": "30.5",
+            "total": "73",
+            "grade": "P"
+        },
+        "IT1302": {
+            "sub": "Data Structures",
+            "int": "25.01",
+            "ext": "23.0",
+            "total": "49",
+            "grade": "D"
+        },
+        "IT1304": {
+            "sub": "DIGITAL CIRCUITS AND LOGIC DESIGN",
+            "int": "37.0",
+            "ext": "28.25",
+            "total": "66",
+            "grade": "B"
+        },
+        "IT1306": {
+            "sub": "Numerical Tech.",
+            "int": "43.745",
+            "ext": "28.0",
+            "total": "72",
+            "grade": "B"
+        },
+        "IT1308": {
+            "sub": "Computing with Python",
+            "int": "43.79",
+            "ext": "34.0",
+            "total": "78",
+            "grade": "A"
+        },
+        "IT1310": {
+            "sub": "Intro. to Info. Systems & Security",
+            "int": "39",
+            "ext": "29.0",
+            "total": "68",
+            "grade": "B"
+        },
+        "MA1302": {
+            "sub": "Engg. Mathematics III",
+            "int": "34.0",
+            "ext": "7.0",
+            "total": "41",
+            "grade": "E"
+        },
+        "IT1361": {
+            "sub": "DATA STRUCTURES LABORATORY",
+            "int": "55.5",
+            "ext": "27.0",
+            "total": "83",
+            "grade": "A"
+        },
+        "IT1362": {
+            "sub": "DIGITAL CIRCUITS & LOGIC DESIGN LAB",
+            "int": "51.69",
+            "ext": "28.0",
+            "total": "80",
+            "grade": "A"
+        },
+        "IT1363": {
+            "sub": "COMPUTING WITH PYTHON LAB",
+            "int": "52",
+            "ext": "38.0",
+            "total": "90",
+            "grade": "S"
+        }
+    },
+    "201600055": {
+        "CS1363": {
+            "sub": "DIGITAL CIRCUITS & LOGIC DESIGN LAB",
+            "int": "17",
+            "ext": "18.0",
+            "total": "35",
+            "grade": "E"
+        },
+        "CS1365": {
+            "sub": "OBJECT ORIENTED CONCEPTS AND PROGRAMMING WITH C++ LAB",
+            "int": "45",
+            "ext": "27.0",
+            "total": "72",
+            "grade": "B"
+        },
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "37.56",
+            "ext": "33.33",
+            "total": "71",
+            "grade": "B"
+        }
+    },
+    "201600490": {
+        "CS1363": {
+            "sub": "DIGITAL CIRCUITS & LOGIC DESIGN LAB",
+            "int": "22",
+            "ext": "23.0",
+            "total": "45",
+            "grade": "D"
+        },
+        "CS1365": {
+            "sub": "OBJECT ORIENTED CONCEPTS AND PROGRAMMING WITH C++ LAB",
+            "int": "47",
+            "ext": "23.0",
+            "total": "70",
+            "grade": "B"
+        },
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "31.22",
+            "ext": "33.67",
+            "total": "65",
+            "grade": "B"
+        }
+    },
+    "201600535": {
+        "CS1462": {
+            "sub": "DATABASE MANAGEMENT SYSTEM LAB",
+            "int": "51.0",
+            "ext": "33.0",
+            "total": "84",
+            "grade": "A"
+        },
+        "CS1465": {
+            "sub": "ALGORITHM LAB",
+            "int": "50.75",
+            "ext": "25.0",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201700363": {
+        "CS1464": {
+            "sub": "ADVANCE PROGRAMMING LAB",
+            "int": "52.6",
+            "ext": "34.0",
+            "total": "87",
+            "grade": "S"
+        },
+        "CS1666": {
+            "sub": "PARALLEL PROGRAMMING LAB",
+            "int": "47.0",
+            "ext": "35.0",
+            "total": "82",
+            "grade": "A"
+        },
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "41.48",
+            "ext": "40.33",
+            "total": "82",
+            "grade": "A"
+        }
+    },
+    "201700072": {
+        "CS1567": {
+            "sub": "SCRIPTING LANGUAGE LAB",
+            "int": "42.5",
+            "ext": "15.5",
+            "total": "58",
+            "grade": "C"
+        }
+    },
+    "201600462": {
+        "CS1663": {
+            "sub": "COMPUTER NETWORK LABORATORY",
+            "int": "54",
+            "ext": "32.0",
+            "total": "86",
+            "grade": "S"
+        },
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "37.58",
+            "ext": "39.33",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201500087": {
+        "CS1762": {
+            "sub": "COMPILER DESIGN LAB",
+            "int": "8",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201500190": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "36.2",
+            "ext": "35.33",
+            "total": "72",
+            "grade": "B"
+        }
+    },
+    "201500235": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "37.57",
+            "ext": "39.33",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201500445": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "37.65",
+            "ext": "38",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201600435": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "34.4",
+            "ext": "43.33",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201600530": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "34.45",
+            "ext": "36.0",
+            "total": "71",
+            "grade": "B"
+        }
+    },
+    "201700038": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "39.96",
+            "ext": "34.33",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201700039": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "35.07",
+            "ext": "32.0",
+            "total": "68",
+            "grade": "B"
+        }
+    },
+    "201700046": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "40.15",
+            "ext": "36.33",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201700049": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "36.56",
+            "ext": "38.67",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201700061": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "42.89",
+            "ext": "37.67",
+            "total": "81",
+            "grade": "A"
+        }
+    },
+    "201700091": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "37.69",
+            "ext": "37.33",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201700097": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "39.45",
+            "ext": "37.33",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201700121": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "40.12",
+            "ext": "35.0",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201700127": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "39.11",
+            "ext": "36.33",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201700145": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "39.47",
+            "ext": "37.33",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201700161": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "40.79",
+            "ext": "37.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201700169": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "40.63",
+            "ext": "35.0",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201700172": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "35.82",
+            "ext": "38.33",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201700175": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "41.36",
+            "ext": "37.33",
+            "total": "79",
+            "grade": "A"
+        }
+    },
+    "201700183": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "41.92",
+            "ext": "36.33",
+            "total": "79",
+            "grade": "A"
+        }
+    },
+    "201700239": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "38.05",
+            "ext": "36.0",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201700249": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "39.24",
+            "ext": "39.67",
+            "total": "79",
+            "grade": "A"
+        }
+    },
+    "201700280": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "42.66",
+            "ext": "36.33",
+            "total": "79",
+            "grade": "A"
+        }
+    },
+    "201700299": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "37.69",
+            "ext": "40.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201700300": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "38.09",
+            "ext": "36.0",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201700304": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "44.36",
+            "ext": "44.67",
+            "total": "90",
+            "grade": "S"
+        }
+    },
+    "201700306": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "37.73",
+            "ext": "39.67",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201700331": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "40.75",
+            "ext": "37.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201700345": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "41.91",
+            "ext": "37.0",
+            "total": "79",
+            "grade": "A"
+        }
+    },
+    "201700353": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "42.71",
+            "ext": "37.33",
+            "total": "81",
+            "grade": "A"
+        }
+    },
+    "201700368": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "41.4",
+            "ext": "36.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201700369": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "37.4",
+            "ext": "38.0",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201700381": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "40.92",
+            "ext": "37.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201700384": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "41.38",
+            "ext": "37.33",
+            "total": "79",
+            "grade": "A"
+        }
+    },
+    "201700386": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "41.13",
+            "ext": "41.33",
+            "total": "83",
+            "grade": "A"
+        }
+    },
+    "201700391": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "32.0",
+            "ext": "35.33",
+            "total": "68",
+            "grade": "B"
+        }
+    },
+    "201700392": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "40.5",
+            "ext": "40.67",
+            "total": "82",
+            "grade": "A"
+        }
+    },
+    "201700398": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "36.01",
+            "ext": "38.0",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201700412": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "38.44",
+            "ext": "36.67",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201700418": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "41.05",
+            "ext": "36.67",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201700425": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "38.62",
+            "ext": "41.0",
+            "total": "80",
+            "grade": "A"
+        }
+    },
+    "201700426": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "38.75",
+            "ext": "35.33",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201700427": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "39.94",
+            "ext": "34.67",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201700450": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "45.51",
+            "ext": "43.0",
+            "total": "89",
+            "grade": "S"
+        }
+    },
+    "201700477": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "34.55",
+            "ext": "43.33",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201700483": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "36.37",
+            "ext": "38.33",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201700493": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "40.66",
+            "ext": "37.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201700517": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "37.42",
+            "ext": "37.33",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201700563": {
+        "CS1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "38.6",
+            "ext": "37.33",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201112501": {
+        "EC301 ": {
+            "sub": "Engg. Maths III",
+            "int": "15.7",
+            "ext": "12.0",
+            "total": "28",
+            "grade": "F"
+        },
+        "EC505 ": {
+            "sub": "Network Analysis",
+            "int": "14.1",
+            "ext": "25.0",
+            "total": "40",
+            "grade": "E"
+        },
+        "EC701 ": {
+            "sub": "Sat. & Opt. Comm. Systems",
+            "int": "17.9",
+            "ext": "38.5",
+            "total": "57",
+            "grade": "C"
+        },
+        "EC703 ": {
+            "sub": "Microelectronics & VLSI Dgn",
+            "int": "12.25",
+            "ext": "35.0",
+            "total": "48",
+            "grade": "D"
+        },
+        "EC704 ": {
+            "sub": "Computer Communication",
+            "int": "19.1",
+            "ext": "38.0",
+            "total": "58",
+            "grade": "C"
+        },
+        "EC706/": {
+            "sub": "BBC & Networking",
+            "int": "19.15",
+            "ext": "28.5",
+            "total": "48",
+            "grade": "D"
+        },
+        "EC1502": {
+            "sub": "Lin.& Dig. Ctrl Sys.",
+            "int": "13.1",
+            "ext": "26.0",
+            "total": "40",
+            "grade": "E"
+        },
+        "EC1761": {
+            "sub": "VLSI LAB",
+            "int": "63.5",
+            "ext": "16.5",
+            "total": "80",
+            "grade": "A"
+        }
+    },
+    "201800155": {
+        "EC1308": {
+            "sub": "Network Analysis & Synthesis",
+            "int": "16.7",
+            "ext": "35.0",
+            "total": "52",
+            "grade": "D"
+        }
+    },
+    "201612504": {
+        "EC1403": {
+            "sub": "EM Waves",
+            "int": "7.0",
+            "ext": "20.0",
+            "total": "27",
+            "grade": "F"
+        },
+        "EC1505": {
+            "sub": "Digital Signal Proc.",
+            "int": "7.7",
+            "ext": "42.5",
+            "total": "51",
+            "grade": "D"
+        },
+        "EC1702": {
+            "sub": "Adaptive Sig. Processing",
+            "int": "8.6",
+            "ext": "26.0",
+            "total": "35",
+            "grade": "E"
+        },
+        "MA1303": {
+            "sub": "Engineering Mathematics III",
+            "int": "3.3",
+            "ext": "10.75",
+            "total": "15",
+            "grade": "F"
+        },
+        "MA1402": {
+            "sub": "ENGINEERING MATHEMATICS IV",
+            "int": "7.6",
+            "ext": "10.0",
+            "total": "18",
+            "grade": "F"
+        }
+    },
+    "201800109": {
+        "EC1406": {
+            "sub": "Design & Anal. of Digital Syst.",
+            "int": "12.6",
+            "ext": "14.0",
+            "total": "27",
+            "grade": "F"
+        }
+    },
+    "201900120": {
+        "EC1406": {
+            "sub": "Design & Anal. of Digital Syst.",
+            "int": "41.01",
+            "ext": "25.0",
+            "total": "67",
+            "grade": "B"
+        }
+    },
+    "201700329": {
+        "EC1505": {
+            "sub": "Digital Signal Processing",
+            "int": "14.4",
+            "ext": "21.0",
+            "total": "36",
+            "grade": "E"
+        }
+    },
+    "201800230": {
+        "EC1508": {
+            "sub": "Obj. Oriented Progg. with C++",
+            "int": "34.02",
+            "ext": "35.0",
+            "total": "70",
+            "grade": "B"
+        }
+    },
+    "201800280": {
+        "EC1638": {
+            "sub": "Recent Trends in ECE",
+            "int": "32.99",
+            "ext": "23.5",
+            "total": "57",
+            "grade": "C"
+        }
+    },
+    "201700098": {
+        "EC1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "38.0",
+            "ext": "45.0",
+            "total": "83",
+            "grade": "A"
+        }
+    },
+    "201700160": {
+        "EC1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "42.8",
+            "ext": "44.0",
+            "total": "87",
+            "grade": "S"
+        }
+    },
+    "201700184": {
+        "EC1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "40.2",
+            "ext": "43.0",
+            "total": "84",
+            "grade": "A"
+        }
+    },
+    "201700295": {
+        "EC1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "44.7",
+            "ext": "42.0",
+            "total": "87",
+            "grade": "S"
+        }
+    },
+    "201700361": {
+        "EC1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "39.2",
+            "ext": "43.0",
+            "total": "83",
+            "grade": "A"
+        }
+    },
+    "201700429": {
+        "EC1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "39.8",
+            "ext": "44.0",
+            "total": "84",
+            "grade": "A"
+        }
+    },
+    "20140680": {
+        "MA1303": {
+            "sub": "Engineering Mathematics III",
+            "int": "14.9",
+            "ext": "25.0",
+            "total": "40",
+            "grade": "E"
+        }
+    },
+    "201613503": {
+        "MA1303": {
+            "sub": "Engineering Mathematics III",
+            "int": "12.5",
+            "ext": "7.0",
+            "total": "20",
+            "grade": "F"
+        },
+        "EE1402": {
+            "sub": "Signals & Sys",
+            "int": "11.0",
+            "ext": "5.5",
+            "total": "17",
+            "grade": "F"
+        }
+    },
+    "201612505": {
+        "MA1402": {
+            "sub": "ENGINEERING MATHEMATICS IV",
+            "int": "10.8",
+            "ext": "17.5",
+            "total": "29",
+            "grade": "F"
+        }
+    },
+    "201700439": {
+        "EC1461": {
+            "sub": "ANALOG ELECTRONIC CIRCUITS LAB",
+            "int": "54.35",
+            "ext": "34.0",
+            "total": "89",
+            "grade": "S"
+        }
+    },
+    "201800660": {
+        "EC1461": {
+            "sub": "ANALOG ELECTRONIC CIRCUITS LAB",
+            "int": "47.36",
+            "ext": "30.0",
+            "total": "78",
+            "grade": "A"
+        },
+        "EC1462": {
+            "sub": "MICROPROCESSOR LAB",
+            "int": "35",
+            "ext": "25.0",
+            "total": "60",
+            "grade": "C"
+        }
+    },
+    "201800304": {
+        "EC1463": {
+            "sub": "DIGITAL SYSTEM LAB",
+            "int": "23.785999999999998",
+            "ext": "28.0",
+            "total": "52",
+            "grade": "D"
+        }
+    },
+    "201700486": {
+        "EC1364": {
+            "sub": "APPLIED ELECTRONICS LAB",
+            "int": "50",
+            "ext": "37.0",
+            "total": "87",
+            "grade": "S"
+        },
+        "IT1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "68.0",
+            "total": "68",
+            "grade": "B"
+        },
+        "IT1361": {
+            "sub": "DATA STRUCTURES LABORATORY",
+            "int": "52.5",
+            "ext": "30.0",
+            "total": "83",
+            "grade": "A"
+        },
+        "IT1362": {
+            "sub": "DIGITAL CIRCUITS & LOGIC DESIGN LAB",
+            "int": "52.0",
+            "ext": "31.0",
+            "total": "83",
+            "grade": "A"
+        }
+    },
+    "201800528": {
+        "EC1364": {
+            "sub": "APPLIED ELECTRONICS LAB",
+            "int": "54",
+            "ext": "38.0",
+            "total": "92",
+            "grade": "S"
+        }
+    },
+    "201800529": {
+        "EC1364": {
+            "sub": "APPLIED ELECTRONICS LAB",
+            "int": "54",
+            "ext": "38.0",
+            "total": "92",
+            "grade": "S"
+        }
+    },
+    "201914501": {
+        "EC1364": {
+            "sub": "APPLIED ELECTRONICS LAB",
+            "int": "56",
+            "ext": "38.0",
+            "total": "94",
+            "grade": "S"
+        }
+    },
+    "202013505": {
+        "EE1302": {
+            "sub": "Circuits & Networks",
+            "int": "17.5",
+            "ext": "19.75",
+            "total": "38",
+            "grade": "E"
+        }
+    },
+    "201913503": {
+        "EE1303": {
+            "sub": "Electrical Machines I",
+            "int": "16.65",
+            "ext": "4.0",
+            "total": "21",
+            "grade": "F"
+        },
+        "EE1502": {
+            "sub": "Linear Control Sys.",
+            "int": "37.0",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201800032": {
+        "EE1402": {
+            "sub": "Signals & Sys",
+            "int": "22.51",
+            "ext": "26.5",
+            "total": "50",
+            "grade": "D"
+        },
+        "EE1403": {
+            "sub": "Electrical Machines II",
+            "int": "24.01",
+            "ext": "13.0",
+            "total": "38",
+            "grade": "E"
+        },
+        "EE1405": {
+            "sub": "Gen. Trans.& Dist. of Elect. Power",
+            "int": "33.01",
+            "ext": "27.0",
+            "total": "61",
+            "grade": "C"
+        },
+        "EE1406": {
+            "sub": "Analog Systems Design",
+            "int": "30",
+            "ext": "23.75",
+            "total": "54",
+            "grade": "D"
+        },
+        "EE1407": {
+            "sub": "Electromagnetic Theory",
+            "int": "27.0",
+            "ext": "24.0",
+            "total": "51",
+            "grade": "D"
+        },
+        "MA1403": {
+            "sub": "Engg Maths IV",
+            "int": "35.01",
+            "ext": "6.0",
+            "total": "42",
+            "grade": "E"
+        }
+    },
+    "201613508": {
+        "EE1402": {
+            "sub": "Signals & Sys",
+            "int": "8.4",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "MA1403": {
+            "sub": "ENGINEERING MATHEMATICS IV",
+            "int": "18.3",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201700515": {
+        "EE1502": {
+            "sub": "Linear Control Sys.",
+            "int": "14.4",
+            "ext": "35.0",
+            "total": "50",
+            "grade": "D"
+        }
+    },
+    "201600199": {
+        "EE1705": {
+            "sub": "Electrical Drives",
+            "int": "32.51",
+            "ext": "26.0",
+            "total": "59",
+            "grade": "C"
+        }
+    },
+    "20121755": {
+        "MA1403": {
+            "sub": "ENGINEERING MATHEMATICS IV",
+            "int": "14.8",
+            "ext": "28.5",
+            "total": "44",
+            "grade": "E"
+        }
+    },
+    "201813513": {
+        "EE1461": {
+            "sub": "ELECTRICAL MACHINES LAB I",
+            "int": "49",
+            "ext": "33.0",
+            "total": "82",
+            "grade": "A"
+        },
+        "EE1462": {
+            "sub": "ANALOG AND DIGITAL ELECTRONICS LAB",
+            "int": "52",
+            "ext": "32.0",
+            "total": "84",
+            "grade": "A"
+        },
+        "EE1464": {
+            "sub": "MEASUREMENT AND INSTRUMENTATION LAB",
+            "int": "54",
+            "ext": "35.0",
+            "total": "89",
+            "grade": "S"
+        }
+    },
+    "201700171": {
+        "EE1462": {
+            "sub": "ANALOG AND DIGITAL ELECTRONICS LAB",
+            "int": "50",
+            "ext": "30.0",
+            "total": "80",
+            "grade": "A"
+        }
+    },
+    "201900227": {
+        "IT1306": {
+            "sub": "Numerical Tech.",
+            "int": "47.0",
+            "ext": "31.75",
+            "total": "79",
+            "grade": "A"
+        }
+    },
+    "201700507": {
+        "MA1302": {
+            "sub": "Engg. Mathematics III",
+            "int": "13.1",
+            "ext": "15.0",
+            "total": "29",
+            "grade": "F"
+        },
+        "IT1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "65.0",
+            "total": "65",
+            "grade": "B"
+        }
+    },
+    "201800501": {
+        "MA1302": {
+            "sub": "Engg. Mathematics III",
+            "int": "11.5",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201800535": {
+        "MA1302": {
+            "sub": "Engg. Mathematics III",
+            "int": "16.4",
+            "ext": "18.0",
+            "total": "35",
+            "grade": "E"
+        }
+    },
+    "201600158": {
+        "MA1404": {
+            "sub": "Engg. Maths IV / Prob. & Statistics",
+            "int": "14.4",
+            "ext": "12.5",
+            "total": "27",
+            "grade": "F"
+        },
+        "IT1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "69.0",
+            "total": "69",
+            "grade": "B"
+        }
+    },
+    "201800045": {
+        "IT1461": {
+            "sub": "OOP WITH C++ LAB",
+            "int": "52",
+            "ext": "32.0",
+            "total": "84",
+            "grade": "A"
+        }
+    },
+    "201600233": {
+        "IT1662": {
+            "sub": "COMPUTER NETWORKS LAB",
+            "int": "52",
+            "ext": "37.0",
+            "total": "89",
+            "grade": "S"
+        }
+    },
+    "201700095": {
+        "IT1563": {
+            "sub": "OPERATING SYSTEMS LAB",
+            "int": "36",
+            "ext": "30.0",
+            "total": "66",
+            "grade": "B"
+        },
+        "IT1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "68.0",
+            "total": "68",
+            "grade": "B"
+        }
+    },
+    "201800288": {
+        "IT1563": {
+            "sub": "OPERATING SYSTEMS LAB",
+            "int": "45",
+            "ext": "36.0",
+            "total": "81",
+            "grade": "A"
+        }
+    },
+    "201600477": {
+        "IT1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "74.0",
+            "total": "74",
+            "grade": "B"
+        }
+    },
+    "201600700": {
+        "IT1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "77.0",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201700221": {
+        "IT1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "68.0",
+            "total": "68",
+            "grade": "B"
+        }
+    },
+    "201700568": {
+        "IT1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "77.0",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201700446": {
+        "ME1508": {
+            "sub": "Fluid & Hydraulic Machines",
+            "int": "5.0",
+            "ext": "46.0",
+            "total": "51",
+            "grade": "D"
+        }
+    },
+    "201800075": {
+        "ME1508": {
+            "sub": "Fluid & Hydraulic Machines",
+            "int": "38.0",
+            "ext": "37.0",
+            "total": "75",
+            "grade": "A"
+        },
+        "ME1607": {
+            "sub": "Thermal Engineering II",
+            "int": "30.4",
+            "ext": "21.0",
+            "total": "52",
+            "grade": "D"
+        }
+    },
+    "201600630": {
+        "ME1511": {
+            "sub": "Mechanics of Solids I",
+            "int": "18.9",
+            "ext": "36.5",
+            "total": "56",
+            "grade": "C"
+        }
+    },
+    "201700139": {
+        "ME1701": {
+            "sub": "Mechanical Vibrations",
+            "int": "40.5",
+            "ext": "12.75",
+            "total": "54",
+            "grade": "D"
+        }
+    },
+    "201815501": {
+        "ME1701": {
+            "sub": "Mechanical Vibrations",
+            "int": "34.0",
+            "ext": "21.0",
+            "total": "55",
+            "grade": "C"
+        }
+    },
+    "202015509": {
+        "MA1305": {
+            "sub": "Engineering Mathematics III",
+            "int": "15",
+            "ext": "16.0",
+            "total": "31",
+            "grade": "F"
+        }
+    },
+    "201500458": {
+        "ME1561": {
+            "sub": "WORKSHOP PRACTICE III",
+            "int": "65",
+            "ext": "18.0",
+            "total": "83",
+            "grade": "A"
+        },
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "71.37",
+            "ext": "20.0",
+            "total": "92",
+            "grade": "S"
+        },
+        "ME1563": {
+            "sub": "METROLOGY LAB",
+            "int": "66.5",
+            "ext": "11.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201800007": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "52.6",
+            "ext": "35.0",
+            "total": "88",
+            "grade": "S"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "51.63",
+            "ext": "26.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201800174": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "51.23",
+            "ext": "33.0",
+            "total": "85",
+            "grade": "S"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "51.63",
+            "ext": "26.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201800205": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "49.8",
+            "ext": "32.0",
+            "total": "82",
+            "grade": "A"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "53.22",
+            "ext": "31.0",
+            "total": "85",
+            "grade": "S"
+        }
+    },
+    "201800211": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "51.7",
+            "ext": "31.0",
+            "total": "83",
+            "grade": "A"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "52.51",
+            "ext": "27.0",
+            "total": "80",
+            "grade": "A"
+        }
+    },
+    "201800229": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "52.6",
+            "ext": "33.0",
+            "total": "86",
+            "grade": "S"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "50.39",
+            "ext": "26.0",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201800233": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "51.8",
+            "ext": "34.0",
+            "total": "86",
+            "grade": "S"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "48.26",
+            "ext": "27.0",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201800253": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "50.72",
+            "ext": "32.0",
+            "total": "83",
+            "grade": "A"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "50.39",
+            "ext": "26.0",
+            "total": "77",
+            "grade": "A"
+        },
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "29.0",
+            "ext": "41.0",
+            "total": "70",
+            "grade": "B"
+        }
+    },
+    "201800336": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "50.72",
+            "ext": "23.0",
+            "total": "74",
+            "grade": "B"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "48.66",
+            "ext": "26.0",
+            "total": "75",
+            "grade": "A"
+        },
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "29.67",
+            "ext": "35.0",
+            "total": "65",
+            "grade": "B"
+        }
+    },
+    "201800594": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "52.9",
+            "ext": "33.0",
+            "total": "86",
+            "grade": "S"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "55.29",
+            "ext": "32.0",
+            "total": "88",
+            "grade": "S"
+        },
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "41.0",
+            "ext": "38.0",
+            "total": "79",
+            "grade": "A"
+        }
+    },
+    "201800650": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "49.8",
+            "ext": "31.0",
+            "total": "81",
+            "grade": "A"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "52.38",
+            "ext": "27.0",
+            "total": "80",
+            "grade": "A"
+        },
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "40.0",
+            "ext": "38.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201915504": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "48.5",
+            "ext": "33.0",
+            "total": "82",
+            "grade": "A"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "51.22",
+            "ext": "26.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201915507": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "48.92",
+            "ext": "32.0",
+            "total": "81",
+            "grade": "A"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "52.66",
+            "ext": "25.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201700122": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "45.9",
+            "ext": "30.0",
+            "total": "76",
+            "grade": "A"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "48",
+            "ext": "20.0",
+            "total": "68",
+            "grade": "B"
+        }
+    },
+    "201700136": {
+        "ME1562": {
+            "sub": "FLUID MECHANICS LAB",
+            "int": "46.2",
+            "ext": "32.0",
+            "total": "79",
+            "grade": "A"
+        },
+        "ME1565": {
+            "sub": "MANUFACTURING AND METROLOGY LAB",
+            "int": "58",
+            "ext": "32.0",
+            "total": "90",
+            "grade": "S"
+        }
+    },
+    "201600501": {
+        "ME1566": {
+            "sub": "THERMAL ENGINEERING LAB II",
+            "int": "48.6",
+            "ext": "32.0",
+            "total": "81",
+            "grade": "A"
+        },
+        "ME1662": {
+            "sub": "COMPUTATION LAB II",
+            "int": "48",
+            "ext": "35.0",
+            "total": "83",
+            "grade": "A"
+        },
+        "ME1663": {
+            "sub": "AUTOMOBILE LAB",
+            "int": "55",
+            "ext": "35.0",
+            "total": "90",
+            "grade": "S"
+        }
+    },
+    "201800034": {
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "36.0",
+            "ext": "36.0",
+            "total": "72",
+            "grade": "B"
+        }
+    },
+    "201800042": {
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "39.0",
+            "ext": "36.0",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201800216": {
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "29.0",
+            "ext": "42.0",
+            "total": "71",
+            "grade": "B"
+        }
+    },
+    "201800223": {
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "29.67",
+            "ext": "35.0",
+            "total": "65",
+            "grade": "B"
+        }
+    },
+    "201800260": {
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "36.0",
+            "ext": "36.0",
+            "total": "72",
+            "grade": "B"
+        }
+    },
+    "201800290": {
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "41.0",
+            "ext": "39.0",
+            "total": "80",
+            "grade": "A"
+        }
+    },
+    "201800519": {
+        "ME1671": {
+            "sub": "MINI PROJECT",
+            "int": "35.0",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201718505": {
+        "CE1302": {
+            "sub": "Fluid Mechanics I",
+            "int": "14.2",
+            "ext": "17.0",
+            "total": "32",
+            "grade": "F"
+        },
+        "CE1303": {
+            "sub": "STRUCTURAL ANALYSIS I",
+            "int": "3",
+            "ext": "8.0",
+            "total": "11",
+            "grade": "F"
+        },
+        "CE1306": {
+            "sub": "Engg. Geology",
+            "int": "4",
+            "ext": "30.25",
+            "total": "35",
+            "grade": "E"
+        },
+        "CE1404": {
+            "sub": "Design of RC Str.",
+            "int": "9.1",
+            "ext": "36.5",
+            "total": "46",
+            "grade": "D"
+        },
+        "CE1406": {
+            "sub": "Const. Mat. & Conc. Tech.",
+            "int": "10.7",
+            "ext": "43.0",
+            "total": "54",
+            "grade": "D"
+        },
+        "CE1501": {
+            "sub": "Geotechnical Engineering I",
+            "int": "13.9",
+            "ext": "26.25",
+            "total": "41",
+            "grade": "E"
+        },
+        "CE1502": {
+            "sub": "Design of Adv. RC Str.",
+            "int": "9.0",
+            "ext": "40.0",
+            "total": "49",
+            "grade": "D"
+        },
+        "CE1503": {
+            "sub": "Irrigation Engineering",
+            "int": "14.8",
+            "ext": "35.0",
+            "total": "50",
+            "grade": "D"
+        },
+        "CE1506": {
+            "sub": "Transportation Engineering I",
+            "int": "13.0",
+            "ext": "40.5",
+            "total": "54",
+            "grade": "D"
+        },
+        "CE1606": {
+            "sub": "Remote Sensing & GIS",
+            "int": "17.35",
+            "ext": "22.5",
+            "total": "40",
+            "grade": "E"
+        }
+    },
+    "201800187": {
+        "CE1303": {
+            "sub": "Structural Analysis I",
+            "int": "13.8",
+            "ext": "31.0",
+            "total": "45",
+            "grade": "D"
+        }
+    },
+    "201900447": {
+        "CE1303": {
+            "sub": "Structural Analysis I",
+            "int": "22.97",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "CE1462": {
+            "sub": "MATERIAL TESTING LAB II",
+            "int": "42",
+            "ext": "12.0",
+            "total": "54",
+            "grade": "D"
+        },
+        "CE1463": {
+            "sub": "SURVEYING PRACTICE I",
+            "int": "46.4",
+            "ext": "15.0",
+            "total": "62",
+            "grade": "C"
+        }
+    },
+    "201918512": {
+        "CE1306": {
+            "sub": "Engg. Geology",
+            "int": "19.7",
+            "ext": "21.75",
+            "total": "42",
+            "grade": "E"
+        }
+    },
+    "201818501": {
+        "CE1401": {
+            "sub": "Num. Methods in Civil Engg.",
+            "int": "8.8",
+            "ext": "20.0",
+            "total": "29",
+            "grade": "F"
+        },
+        "CE1403": {
+            "sub": "Structural Analysis II",
+            "int": "14.7",
+            "ext": "10.0",
+            "total": "25",
+            "grade": "F"
+        },
+        "CE1404": {
+            "sub": "Design of RC Str.",
+            "int": "12.4",
+            "ext": "40.5",
+            "total": "53",
+            "grade": "D"
+        },
+        "CE1405": {
+            "sub": "Surveying II",
+            "int": "12.0",
+            "ext": "24.0",
+            "total": "36",
+            "grade": "E"
+        },
+        "CE1507": {
+            "sub": "Environmental Engineering II",
+            "int": "16.3",
+            "ext": "40.5",
+            "total": "57",
+            "grade": "C"
+        },
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "29.0",
+            "ext": "39.0",
+            "total": "68",
+            "grade": "B"
+        }
+    },
+    "201618521": {
+        "CE1402": {
+            "sub": "Fluid Mech. II",
+            "int": "17.6",
+            "ext": "MP",
+            "total": "00",
+            "grade": "MP"
+        }
+    },
+    "201800083": {
+        "CE1403": {
+            "sub": "Structural Analysis II",
+            "int": "10.49",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201518506": {
+        "CE1504": {
+            "sub": "Water Res. Engineering",
+            "int": "12.8",
+            "ext": "12.0",
+            "total": "25",
+            "grade": "F"
+        }
+    },
+    "201800167": {
+        "CE1601": {
+            "sub": "Geotechnical Engg. II",
+            "int": "19",
+            "ext": "18.25",
+            "total": "38",
+            "grade": "E"
+        },
+        "CE1606": {
+            "sub": "Remote Sensing & GIS",
+            "int": "13.98",
+            "ext": "15.0",
+            "total": "29",
+            "grade": "F"
+        }
+    },
+    "201918514": {
+        "CE1602": {
+            "sub": "Design of Steel Str.",
+            "int": "30.5",
+            "ext": "22.5",
+            "total": "53",
+            "grade": "D"
+        }
+    },
+    "201500121": {
+        "CE1606": {
+            "sub": "Remote Sensing & GIS",
+            "int": "2.65",
+            "ext": "26.5",
+            "total": "30",
+            "grade": "F"
+        },
+        "CE1661": {
+            "sub": "STRUCTURAL DESIGN & DRAWING",
+            "int": "61",
+            "ext": "16.0",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201518514": {
+        "CE1606": {
+            "sub": "Remote Sensing & GIS",
+            "int": "7.75",
+            "ext": "23.25",
+            "total": "31",
+            "grade": "F"
+        }
+    },
+    "201918510": {
+        "CE1606": {
+            "sub": "Remote Sensing & GIS",
+            "int": "12.33",
+            "ext": "23.25",
+            "total": "36",
+            "grade": "E"
+        }
+    },
+    "201918518": {
+        "CE1606": {
+            "sub": "Remote Sensing & GIS",
+            "int": "17.18",
+            "ext": "17.75",
+            "total": "35",
+            "grade": "E"
+        }
+    },
+    "201800322": {
+        "CE1633": {
+            "sub": "Solid Waste Management",
+            "int": "33.7",
+            "ext": "33.0",
+            "total": "67",
+            "grade": "B"
+        }
+    },
+    "201600282": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "27.0",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201700104": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "41.25",
+            "ext": "46.0",
+            "total": "88",
+            "grade": "S"
+        }
+    },
+    "201700162": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "41.5",
+            "ext": "46.0",
+            "total": "88",
+            "grade": "S"
+        }
+    },
+    "201700566": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "25.0",
+            "ext": "36.0",
+            "total": "61",
+            "grade": "C"
+        }
+    },
+    "201818502": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "33.17",
+            "ext": "37.0",
+            "total": "71",
+            "grade": "B"
+        }
+    },
+    "201818508": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "40.75",
+            "ext": "46.0",
+            "total": "87",
+            "grade": "S"
+        }
+    },
+    "201818509": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "36.0",
+            "ext": "42.0",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "201818512": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "35.0",
+            "ext": "42.0",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201818514": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "37.0",
+            "ext": "42.0",
+            "total": "79",
+            "grade": "A"
+        }
+    },
+    "201818517": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "34.0",
+            "ext": "41.0",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201818518": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "35.0",
+            "ext": "41.0",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201818523": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "27.0",
+            "ext": "38.0",
+            "total": "65",
+            "grade": "B"
+        }
+    },
+    "201818529": {
+        "CE1875": {
+            "sub": "MAJOR PROJECT",
+            "int": "30.0",
+            "ext": "35.0",
+            "total": "65",
+            "grade": "B"
+        }
+    },
+    "201818522": {
+        "MA1301": {
+            "sub": "Engineering Mathematics III",
+            "int": "7.3",
+            "ext": "23.0",
+            "total": "31",
+            "grade": "F"
+        },
+        "CE1581": {
+            "sub": "INDUSTRIAL TRAINING I",
+            "int": "0",
+            "ext": "73.0",
+            "total": "73",
+            "grade": "B"
+        }
+    },
+    "201600171": {
+        "CE1461": {
+            "sub": "FLUID MECHANICS LAB I",
+            "int": "44",
+            "ext": "29.0",
+            "total": "73",
+            "grade": "B"
+        }
+    },
+    "201900701": {
+        "CE1563": {
+            "sub": "COMPUTER LAB I",
+            "int": "41",
+            "ext": "31",
+            "total": "72",
+            "grade": "B"
+        }
+    },
+    "202019060": {
+        " BA110": {
+            "sub": "Principle & Practices of Management",
+            "int": "48.0",
+            "ext": "40.5",
+            "total": "89",
+            "grade": "S"
+        }
+    },
+    "201919038": {
+        "BA1103": {
+            "sub": "Quantitative Analysis",
+            "int": "14.5",
+            "ext": "25.5",
+            "total": "40",
+            "grade": "E"
+        },
+        "BA1105": {
+            "sub": "Buss. Economics",
+            "int": "16.6",
+            "ext": "29.5",
+            "total": "47",
+            "grade": "D"
+        }
+    },
+    "201919046": {
+        "BA1103": {
+            "sub": "Quantitative Analysis",
+            "int": "11.1",
+            "ext": "40.25",
+            "total": "52",
+            "grade": "D"
+        },
+        "BA1105": {
+            "sub": "Buss. Economics",
+            "int": "14.2",
+            "ext": "39.0",
+            "total": "54",
+            "grade": "D"
+        },
+        "BA1303": {
+            "sub": "Entrepreneurship & Small Business",
+            "int": "33.0",
+            "ext": "29.0",
+            "total": "62",
+            "grade": "C"
+        }
+    },
+    "201919050": {
+        "BA1103": {
+            "sub": "Quantitative Analysis",
+            "int": "19.1",
+            "ext": "33.0",
+            "total": "53",
+            "grade": "D"
+        }
+    },
+    "201919051": {
+        "BA1103": {
+            "sub": "Quantitative Analysis",
+            "int": "14.8",
+            "ext": "34.0",
+            "total": "49",
+            "grade": "D"
+        },
+        "BA1104": {
+            "sub": "Financial Accounting",
+            "int": "18.4",
+            "ext": "33.5",
+            "total": "52",
+            "grade": "D"
+        }
+    },
+    "201919025": {
+        "BA1104": {
+            "sub": "Financial Accounting",
+            "int": "14.9",
+            "ext": "38.0",
+            "total": "53",
+            "grade": "D"
+        },
+        "BA1105": {
+            "sub": "Buss. Economics",
+            "int": "11.4",
+            "ext": "42.25",
+            "total": "54",
+            "grade": "D"
+        }
+    },
+    "201919049": {
+        "BA1104": {
+            "sub": "Financial Accounting",
+            "int": "18.7",
+            "ext": "31.5",
+            "total": "51",
+            "grade": "D"
+        }
+    },
+    "201919052": {
+        "BA1104": {
+            "sub": "Financial Accounting",
+            "int": "15.0",
+            "ext": "29.0",
+            "total": "44",
+            "grade": "E"
+        }
+    },
+    "201919053": {
+        "BA1104": {
+            "sub": "Financial Accounting",
+            "int": "10.5",
+            "ext": "35.0",
+            "total": "46",
+            "grade": "D"
+        }
+    },
+    "201919056": {
+        "BA1104": {
+            "sub": "Financial Accounting",
+            "int": "22.3",
+            "ext": "31.5",
+            "total": "54",
+            "grade": "D"
+        },
+        "BA1105": {
+            "sub": "Buss. Economics",
+            "int": "16.7",
+            "ext": "40.0",
+            "total": "57",
+            "grade": "C"
+        }
+    },
+    "201919021": {
+        "BA1105": {
+            "sub": "Buss. Economics",
+            "int": "16.0",
+            "ext": "37.5",
+            "total": "54",
+            "grade": "D"
+        }
+    },
+    "201919022": {
+        "BA1105": {
+            "sub": "Buss. Economics",
+            "int": "18.1",
+            "ext": "38.75",
+            "total": "57",
+            "grade": "C"
+        },
+        "BA1303": {
+            "sub": "Entrepreneurship & Small Business",
+            "int": "40.0",
+            "ext": "19.0",
+            "total": "59",
+            "grade": "C"
+        }
+    },
+    "201919036": {
+        "BA1105": {
+            "sub": "Buss. Economics",
+            "int": "12.9",
+            "ext": "36.75",
+            "total": "50",
+            "grade": "D"
+        }
+    },
+    "201919055": {
+        "BA1105": {
+            "sub": "Buss. Economics",
+            "int": "14.15",
+            "ext": "36.25",
+            "total": "51",
+            "grade": "D"
+        }
+    },
+    "201819026": {
+        "BA1202": {
+            "sub": "Business Environment",
+            "int": "20.3",
+            "ext": "38",
+            "total": "59",
+            "grade": "C"
+        },
+        "BA1203": {
+            "sub": "Org. Behavior",
+            "int": "19.3",
+            "ext": "33.0",
+            "total": "53",
+            "grade": "D"
+        }
+    },
+    "201819033": {
+        "BA1204": {
+            "sub": "Buss. Fin.",
+            "int": "22.6",
+            "ext": "15.0",
+            "total": "38",
+            "grade": "E"
+        },
+        "BA1305": {
+            "sub": "Marketing Mgt.",
+            "int": "13.63",
+            "ext": "29.75",
+            "total": "44",
+            "grade": "E"
+        }
+    },
+    "201919029": {
+        "BA1301": {
+            "sub": "Intl. Business",
+            "int": "39.1",
+            "ext": "37.25",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201919030": {
+        "BA1301": {
+            "sub": "Intl. Business",
+            "int": "39.0",
+            "ext": "27.75",
+            "total": "67",
+            "grade": "B"
+        }
+    },
+    "201919037": {
+        "BA1301": {
+            "sub": "Intl. Business",
+            "int": "39.0",
+            "ext": "26.75",
+            "total": "66",
+            "grade": "B"
+        }
+    },
+    "201919017": {
+        "BA1303": {
+            "sub": "Entrepreneurship & Small Business",
+            "int": "45.5",
+            "ext": "24.0",
+            "total": "70",
+            "grade": "B"
+        }
+    },
+    "201819023": {
+        "BA1304": {
+            "sub": "Accounting for Mgt.",
+            "int": "12.0",
+            "ext": "39.75",
+            "total": "52",
+            "grade": "D"
+        },
+        "BA1503": {
+            "sub": "Marketing Communication & Advertising",
+            "int": "13.45",
+            "ext": "28.5",
+            "total": "42",
+            "grade": "E"
+        }
+    },
+    "201819014": {
+        "BA1403": {
+            "sub": "Mktg. of Services",
+            "int": "11.05",
+            "ext": "35.75",
+            "total": "47",
+            "grade": "D"
+        },
+        "BA1404": {
+            "sub": "Consumer Behavior",
+            "int": "12.6",
+            "ext": "28.0",
+            "total": "41",
+            "grade": "E"
+        },
+        "MA1205": {
+            "sub": "Buss. Maths.",
+            "int": "7.2",
+            "ext": "40.0",
+            "total": "48",
+            "grade": "D"
+        },
+        "BA1402": {
+            "sub": "Marketing Research",
+            "int": "7.6",
+            "ext": "22.5",
+            "total": "31",
+            "grade": "F"
+        }
+    },
+    "201819020": {
+        "BA1531": {
+            "sub": "Ind. Relations",
+            "int": "29",
+            "ext": "44.0",
+            "total": "73",
+            "grade": "B"
+        }
+    },
+    "201819010": {
+        "MA1205": {
+            "sub": "Buss. Maths.",
+            "int": "12.95",
+            "ext": "22.0",
+            "total": "35",
+            "grade": "E"
+        }
+    },
+    "201919016": {
+        "BA1402": {
+            "sub": "Marketing Research",
+            "int": "29.51",
+            "ext": "11.0",
+            "total": "41",
+            "grade": "E"
+        }
+    },
+    "202023028": {
+        "BA2102": {
+            "sub": "Marketing Management",
+            "int": "30.83",
+            "ext": "22.0",
+            "total": "53",
+            "grade": "D"
+        }
+    },
+    "201923030": {
+        " \tBA21": {
+            "sub": "Accounting for Managers",
+            "int": "14.7",
+            "ext": "10.0",
+            "total": "25",
+            "grade": "F"
+        },
+        " \tBA23": {
+            "sub": "Project Management",
+            "int": "34",
+            "ext": "18.75",
+            "total": "53",
+            "grade": "D"
+        },
+        "MA2209": {
+            "sub": "Quant. Meth. in Mgt.",
+            "int": "14.71",
+            "ext": "2.0",
+            "total": "17",
+            "grade": "F"
+        }
+    },
+    "201923024": {
+        "BA2105": {
+            "sub": "Business Communication",
+            "int": "36.1",
+            "ext": "44.75",
+            "total": "81",
+            "grade": "A"
+        },
+        "BA2107": {
+            "sub": "Legal & Eth. Asp. in Buss.",
+            "int": "37.2",
+            "ext": "45.5",
+            "total": "83",
+            "grade": "A"
+        }
+    },
+    "201923035": {
+        "BA2434": {
+            "sub": "Comp. Mgt. & Int. HRM",
+            "int": "44",
+            "ext": "38.25",
+            "total": "83",
+            "grade": "A"
+        }
+    },
+    "201816014": {
+        "BA1110": {
+            "sub": "Fundamentals of Business Management",
+            "int": "18.9",
+            "ext": "41.5",
+            "total": "61",
+            "grade": "C"
+        },
+        "BA1210": {
+            "sub": "Accounting & Financial Management",
+            "int": "17.55",
+            "ext": "38.0",
+            "total": "56",
+            "grade": "C"
+        },
+        "CA1204": {
+            "sub": "HTML & Scripting for Web Page Design",
+            "int": "22.5",
+            "ext": "41.0",
+            "total": "64",
+            "grade": "C"
+        },
+        "MA1204": {
+            "sub": "Maths. II",
+            "int": "13.15",
+            "ext": "39.0",
+            "total": "53",
+            "grade": "D"
+        },
+        "MA1304": {
+            "sub": "Mathematics III",
+            "int": "10.9",
+            "ext": "12.0",
+            "total": "23",
+            "grade": "F"
+        }
+    },
+    "201816015": {
+        "BA1110": {
+            "sub": "Fundamentals of Business Management",
+            "int": "14.95",
+            "ext": "34.5",
+            "total": "50",
+            "grade": "D"
+        },
+        "CA1202": {
+            "sub": "C Programming II",
+            "int": "15.9",
+            "ext": "28.5",
+            "total": "45",
+            "grade": "D"
+        }
+    },
+    "201816019": {
+        "BA1110": {
+            "sub": "Fundamentals of Business Management",
+            "int": "14.0",
+            "ext": "37.0",
+            "total": "51",
+            "grade": "D"
+        },
+        "CA1202": {
+            "sub": "C Programming II",
+            "int": "15.45",
+            "ext": "30.5",
+            "total": "46",
+            "grade": "D"
+        }
+    },
+    "202016022": {
+        "BA1110": {
+            "sub": "Fundamentals of Business Management",
+            "int": "1.0",
+            "ext": "24.5",
+            "total": "26",
+            "grade": "F"
+        },
+        "CA1104": {
+            "sub": "C Programming I",
+            "int": "3.0",
+            "ext": "28.0",
+            "total": "31",
+            "grade": "F"
+        },
+        "CA1106": {
+            "sub": "Fund. of Comp. & Multimedia Tech.",
+            "int": "0.5",
+            "ext": "16.25",
+            "total": "17",
+            "grade": "F"
+        },
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "9.98",
+            "ext": "11.0",
+            "total": "21",
+            "grade": "F"
+        }
+    },
+    "202016041": {
+        "BA1110": {
+            "sub": "Fundamentals of Business Management",
+            "int": "3.75",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "CA1104": {
+            "sub": "C Programming I",
+            "int": "7.0",
+            "ext": "10.0",
+            "total": "17",
+            "grade": "F"
+        },
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "8.0",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        }
+    },
+    "201716028": {
+        "BA1210": {
+            "sub": "Accounting & Financial Management",
+            "int": "18.0",
+            "ext": "37.25",
+            "total": "56",
+            "grade": "C"
+        },
+        "CA1104": {
+            "sub": "C Programming I",
+            "int": "12.5",
+            "ext": "34.0",
+            "total": "47",
+            "grade": "D"
+        },
+        "CA1304": {
+            "sub": "OOP Using C++",
+            "int": "8.4",
+            "ext": "42.0",
+            "total": "51",
+            "grade": "D"
+        },
+        "CA1406": {
+            "sub": "Computer Org. & Arch.",
+            "int": "17.1",
+            "ext": "35.0",
+            "total": "53",
+            "grade": "D"
+        }
+    },
+    "201816027": {
+        "BA1210": {
+            "sub": "Accounting & Financial Management",
+            "int": "19.05",
+            "ext": "31.5",
+            "total": "51",
+            "grade": "D"
+        },
+        "CA1104": {
+            "sub": "C Programming I",
+            "int": "13.75",
+            "ext": "AB",
+            "total": "0",
+            "grade": "I"
+        },
+        "CA1105": {
+            "sub": "Fund. of Dig. Elect.",
+            "int": "16.6",
+            "ext": "39.5",
+            "total": "57",
+            "grade": "C"
+        }
+    },
+    "201816033": {
+        "BA1210": {
+            "sub": "Accounting & Financial Management",
+            "int": "13.5",
+            "ext": "33.25",
+            "total": "47",
+            "grade": "D"
+        }
+    },
+    "201816035": {
+        "BA1210": {
+            "sub": "Accounting & Financial Management",
+            "int": "12.75",
+            "ext": "31.0",
+            "total": "44",
+            "grade": "E"
+        },
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "5.3",
+            "ext": "34.5",
+            "total": "40",
+            "grade": "E"
+        },
+        "MA1204": {
+            "sub": "Maths. II",
+            "int": "9.2",
+            "ext": "34.25",
+            "total": "44",
+            "grade": "E"
+        }
+    },
+    "201816018": {
+        "CA1104": {
+            "sub": "C Programming I",
+            "int": "15.2",
+            "ext": "29.5",
+            "total": "45",
+            "grade": "D"
+        },
+        "CA1105": {
+            "sub": "Fund. of Dig. Elect.",
+            "int": "18.4",
+            "ext": "39.0",
+            "total": "58",
+            "grade": "C"
+        },
+        "CA1202": {
+            "sub": "C Programming II",
+            "int": "17.2",
+            "ext": "25.5",
+            "total": "43",
+            "grade": "E"
+        }
+    },
+    "202016019": {
+        "CA1104": {
+            "sub": "C Programming I",
+            "int": "12.0",
+            "ext": "29.0",
+            "total": "41",
+            "grade": "E"
+        },
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "17.02",
+            "ext": "7.0",
+            "total": "25",
+            "grade": "F"
+        }
+    },
+    "201816020": {
+        "CA1105": {
+            "sub": "Fund. of Dig. Elect.",
+            "int": "19.2",
+            "ext": "37.75",
+            "total": "57",
+            "grade": "C"
+        },
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "13.3",
+            "ext": "14.0",
+            "total": "28",
+            "grade": "F"
+        },
+        "MA1204": {
+            "sub": "Maths. II",
+            "int": "17.1",
+            "ext": "18.25",
+            "total": "36",
+            "grade": "E"
+        }
+    },
+    "201916019": {
+        "CA1105": {
+            "sub": "Fund. of Dig. Elect.",
+            "int": "12.7",
+            "ext": "39.25",
+            "total": "52",
+            "grade": "D"
+        },
+        "CA1106": {
+            "sub": "Fund. of Comp. & Multimedia Tech.",
+            "int": "17.4",
+            "ext": "38.75",
+            "total": "57",
+            "grade": "C"
+        },
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "11.8",
+            "ext": "1.0",
+            "total": "13",
+            "grade": "F"
+        },
+        "MA1204": {
+            "sub": "Maths. II",
+            "int": "15.0",
+            "ext": "13.0",
+            "total": "28",
+            "grade": "F"
+        }
+    },
+    "202016004": {
+        "CA1106": {
+            "sub": "Fund. of Comp. & Multimedia Tech.",
+            "int": "41.0",
+            "ext": "36.75",
+            "total": "78",
+            "grade": "A"
+        }
+    },
+    "202016025": {
+        "CA1106": {
+            "sub": "Fund. of Comp. & Multimedia Tech.",
+            "int": "39.5",
+            "ext": "34.75",
+            "total": "75",
+            "grade": "A"
+        }
+    },
+    "201716009": {
+        "CA1202": {
+            "sub": "C Programming II",
+            "int": "11.9",
+            "ext": "28.75",
+            "total": "41",
+            "grade": "E"
+        },
+        "CA1304": {
+            "sub": "OOP Using C++",
+            "int": "16.3",
+            "ext": "33.5",
+            "total": "50",
+            "grade": "D"
+        },
+        "MA1204": {
+            "sub": "Maths. II",
+            "int": "11.75",
+            "ext": "28.5",
+            "total": "41",
+            "grade": "E"
+        },
+        "MA1304": {
+            "sub": "Mathematics III",
+            "int": "17.0",
+            "ext": "11.0",
+            "total": "28",
+            "grade": "F"
+        }
+    },
+    "201716018": {
+        "CA1202": {
+            "sub": "C Programming II",
+            "int": "23.6",
+            "ext": "24.5",
+            "total": "49",
+            "grade": "D"
+        },
+        "CA1205": {
+            "sub": "Principles of Progg. Language",
+            "int": "14.3",
+            "ext": "38.25",
+            "total": "53",
+            "grade": "D"
+        },
+        "CA1304": {
+            "sub": "OOP Using C++",
+            "int": "15.0",
+            "ext": "36.25",
+            "total": "52",
+            "grade": "D"
+        },
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "16.5",
+            "ext": "12.75",
+            "total": "30",
+            "grade": "F"
+        },
+        "MA1204": {
+            "sub": "Maths. II",
+            "int": "12.7",
+            "ext": "16.25",
+            "total": "29",
+            "grade": "F"
+        }
+    },
+    "201816009": {
+        "CA1204": {
+            "sub": "HTML & Scripting for Web Page Design",
+            "int": "14.0",
+            "ext": "21.25",
+            "total": "36",
+            "grade": "E"
+        },
+        "CA1636": {
+            "sub": "Data Analytics Using Python",
+            "int": "30.5",
+            "ext": "24.75",
+            "total": "56",
+            "grade": "C"
+        }
+    },
+    "201816013": {
+        "CA1603": {
+            "sub": "Python Programming",
+            "int": "32.0",
+            "ext": "40.25",
+            "total": "73",
+            "grade": "B"
+        }
+    },
+    "202016011": {
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "20.98",
+            "ext": "10.5",
+            "total": "32",
+            "grade": "F"
+        }
+    },
+    "202016021": {
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "24.98",
+            "ext": "6.5",
+            "total": "32",
+            "grade": "F"
+        }
+    },
+    "202016030": {
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "18.98",
+            "ext": "3.0",
+            "total": "22",
+            "grade": "F"
+        }
+    },
+    "202016038": {
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "21.02",
+            "ext": "6.5",
+            "total": "28",
+            "grade": "F"
+        }
+    },
+    "202016040": {
+        "MA1104": {
+            "sub": "Mathematics I",
+            "int": "18.98",
+            "ext": "5.75",
+            "total": "25",
+            "grade": "F"
+        }
+    },
+    "201916011": {
+        "MA1204": {
+            "sub": "Maths. II",
+            "int": "12.0",
+            "ext": "31.0",
+            "total": "43",
+            "grade": "E"
+        }
+    },
+    "201816028": {
+        "CA1671": {
+            "sub": "PROJECT",
+            "int": "27.2",
+            "ext": "48.0",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "201722005": {
+        "MA2208": {
+            "sub": "Quantitative Anal. for Comp. Appl.",
+            "int": "13.9",
+            "ext": "6.5",
+            "total": "21",
+            "grade": "F"
+        }
+    },
+    "202022016": {
+        "CA2114": {
+            "sub": "Java Programming",
+            "int": "24.0",
+            "ext": "26.0",
+            "total": "50",
+            "grade": "D"
+        }
+    },
+    "202022014": {
+        "MA2110": {
+            "sub": "Computational Mathematics",
+            "int": "24",
+            "ext": "17.0",
+            "total": "41",
+            "grade": "E"
+        }
+    },
+    "201830001": {
+        "ME2375": {
+            "sub": "MAJOR PROJECT",
+            "int": "43",
+            "ext": "45",
+            "total": "88",
+            "grade": "S"
+        }
+    },
+    "201830002": {
+        "ME2375": {
+            "sub": "MAJOR PROJECT",
+            "int": "44",
+            "ext": "45",
+            "total": "89",
+            "grade": "S"
+        }
+    },
+    "201930001": {
+        "ME2375": {
+            "sub": "MAJOR PROJECT",
+            "int": "45",
+            "ext": "45",
+            "total": "90",
+            "grade": "S"
+        }
+    },
+    "201930002": {
+        "ME2375": {
+            "sub": "MAJOR PROJECT",
+            "int": "44",
+            "ext": "45",
+            "total": "89",
+            "grade": "S"
+        }
+    },
+    "201933001": {
+        "CE2107": {
+            "sub": "Finite Element Method",
+            "int": "16.5",
+            "ext": "25.5",
+            "total": "42",
+            "grade": "E"
+        }
+    },
+    "201921220": {
+        "PH2101": {
+            "sub": "Mathematical Physics",
+            "int": "16.85",
+            "ext": "20.0",
+            "total": "37",
+            "grade": "E"
+        },
+        "PH2104": {
+            "sub": "Quantum Mechanics I",
+            "int": "14.9",
+            "ext": "20.0",
+            "total": "35",
+            "grade": "E"
+        }
+    },
+    "201921221": {
+        "PH2101": {
+            "sub": "Mathematical Physics",
+            "int": "14.05",
+            "ext": "25.5",
+            "total": "40",
+            "grade": "E"
+        },
+        "PH2431": {
+            "sub": "Particle Physics II",
+            "int": "17.73",
+            "ext": "16.75",
+            "total": "35",
+            "grade": "E"
+        },
+        "PH2432": {
+            "sub": "Plasma Physics II",
+            "int": "8.63",
+            "ext": "7.5",
+            "total": "17",
+            "grade": "F"
+        }
+    },
+    "202021224": {
+        "PH2102": {
+            "sub": "Fund. of Electronics",
+            "int": "31.5",
+            "ext": "31.5",
+            "total": "63",
+            "grade": "C"
+        }
+    },
+    "202021231": {
+        "PH2102": {
+            "sub": "Fund. of Electronics",
+            "int": "21.75",
+            "ext": "24.5",
+            "total": "47",
+            "grade": "D"
+        }
+    },
+    "202021235": {
+        "PH2102": {
+            "sub": "Fund. of Electronics",
+            "int": "5.75",
+            "ext": "31.5",
+            "total": "38",
+            "grade": "E"
+        }
+    },
+    "202021222": {
+        "\tPH210": {
+            "sub": "CLASSICAL MECHANICS",
+            "int": "17.5",
+            "ext": "18.0",
+            "total": "36",
+            "grade": "E"
+        }
+    },
+    "201921202": {
+        "PH2401": {
+            "sub": "Exp. Tech. & Data Analysis",
+            "int": "37.5",
+            "ext": "27.5",
+            "total": "65",
+            "grade": "B"
+        },
+        "PH2402": {
+            "sub": "Atomic & Molecular Physics",
+            "int": "32.25",
+            "ext": "30.0",
+            "total": "63",
+            "grade": "C"
+        },
+        "PH2431": {
+            "sub": "Particle Physics II",
+            "int": "33.88",
+            "ext": "21.0",
+            "total": "55",
+            "grade": "C"
+        },
+        "PH2432": {
+            "sub": "Plasma Physics II",
+            "int": "24.13",
+            "ext": "22.5",
+            "total": "47",
+            "grade": "D"
+        }
+    },
+    "201921215": {
+        "PH2402": {
+            "sub": "Atomic & Molecular Physics",
+            "int": "19.75",
+            "ext": "15.5",
+            "total": "36",
+            "grade": "E"
+        }
+    },
+    "201921207": {
+        "PH2433": {
+            "sub": "Electronics II",
+            "int": "31.8",
+            "ext": "22.0",
+            "total": "54",
+            "grade": "D"
+        }
+    },
+    "201921216": {
+        "PH2475": {
+            "sub": "DISSERTATION/PROJECT",
+            "int": "27",
+            "ext": "23",
+            "total": "50",
+            "grade": "D"
+        }
+    },
+    "202021303": {
+        "CH2101": {
+            "sub": "Principles of Inorganic Chem.",
+            "int": "31.5",
+            "ext": "28.0",
+            "total": "60",
+            "grade": "C"
+        }
+    },
+    "201721403": {
+        "MA2102": {
+            "sub": "Algebra",
+            "int": "12.9",
+            "ext": "12.0",
+            "total": "25",
+            "grade": "F"
+        }
+    },
+    "201921412": {
+        "MA2102": {
+            "sub": "Algebra",
+            "int": "16.9",
+            "ext": "37.5",
+            "total": "55",
+            "grade": "C"
+        }
+    },
+    "201921419": {
+        "MA2102": {
+            "sub": "Algebra",
+            "int": "17.0",
+            "ext": "29.5",
+            "total": "47",
+            "grade": "D"
+        },
+        "MA2104": {
+            "sub": "Linear Algebra",
+            "int": "22.9",
+            "ext": "29.0",
+            "total": "52",
+            "grade": "D"
+        }
+    },
+    "201921422": {
+        "MA2102": {
+            "sub": "Algebra",
+            "int": "16.4",
+            "ext": "31.5",
+            "total": "48",
+            "grade": "D"
+        }
+    },
+    "201721411": {
+        "MA2104": {
+            "sub": "Linear Algebra",
+            "int": "16.2",
+            "ext": "19.25",
+            "total": "36",
+            "grade": "E"
+        }
+    },
+    "201821411": {
+        "MA2204": {
+            "sub": "Topology",
+            "int": "20",
+            "ext": "18.75",
+            "total": "39",
+            "grade": "E"
+        }
+    },
+    "201910025": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "35.5",
+            "ext": "32.25",
+            "total": "68",
+            "grade": "B"
+        }
+    },
+    "202010002": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "41.3",
+            "ext": "31.75",
+            "total": "74",
+            "grade": "B"
+        },
+        "EC5107": {
+            "sub": "Nanomaterials and Nanoelectronics Devices",
+            "int": "44",
+            "ext": "44.0",
+            "total": "88",
+            "grade": "S"
+        }
+    },
+    "202010004": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "35.0",
+            "ext": "22.25",
+            "total": "58",
+            "grade": "C"
+        },
+        "EC5104": {
+            "sub": "Low Power VLSI Design",
+            "int": "42",
+            "ext": "38.0",
+            "total": "80",
+            "grade": "A"
+        }
+    },
+    "202110001": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "34.0",
+            "ext": "32.25",
+            "total": "67",
+            "grade": "B"
+        }
+    },
+    "202110003": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "37.6",
+            "ext": "28.5",
+            "total": "67",
+            "grade": "B"
+        }
+    },
+    "202110007": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "39.0",
+            "ext": "38.5",
+            "total": "78",
+            "grade": "A"
+        },
+        "CS5127": {
+            "sub": "Advanced Data Analytics",
+            "int": "46",
+            "ext": "38.0",
+            "total": "84",
+            "grade": "A"
+        }
+    },
+    "202110008": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "38.5",
+            "ext": "44.0",
+            "total": "83",
+            "grade": "A"
+        },
+        "CS5123": {
+            "sub": "Digital Signal Processing",
+            "int": "44",
+            "ext": "38.0",
+            "total": "82",
+            "grade": "A"
+        }
+    },
+    "202110009": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "31.23",
+            "ext": "31.0",
+            "total": "63",
+            "grade": "C"
+        }
+    },
+    "202110010": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "31.8",
+            "ext": "35.25",
+            "total": "68",
+            "grade": "B"
+        }
+    },
+    "202110013": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "28.63",
+            "ext": "27.75",
+            "total": "57",
+            "grade": "C"
+        }
+    },
+    "T20211001": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "27.17",
+            "ext": "21.75",
+            "total": "49",
+            "grade": "D"
+        }
+    },
+    "T20211005": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "27.0",
+            "ext": "32.0",
+            "total": "59",
+            "grade": "C"
+        }
+    },
+    "T20211007": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "32.5",
+            "ext": "36.75",
+            "total": "70",
+            "grade": "B"
+        }
+    },
+    "T20211009": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "34.33",
+            "ext": "38.25",
+            "total": "73",
+            "grade": "B"
+        },
+        "MN5109": {
+            "sub": "Characterization Techniques",
+            "int": "39.0",
+            "ext": "40.75",
+            "total": "80",
+            "grade": "A"
+        }
+    },
+    "T20211010": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "29.43",
+            "ext": "23.25",
+            "total": "53",
+            "grade": "D"
+        }
+    },
+    "T20211011": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "31.77",
+            "ext": "38.75",
+            "total": "71",
+            "grade": "B"
+        }
+    },
+    "T20211015": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "31.5",
+            "ext": "44.0",
+            "total": "76",
+            "grade": "A"
+        }
+    },
+    "T20211016": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "29.03",
+            "ext": "38.5",
+            "total": "68",
+            "grade": "B"
+        },
+        "MN5109": {
+            "sub": "Characterization Techniques",
+            "int": "40.5",
+            "ext": "36.0",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "T20211022": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "29.6",
+            "ext": "34.75",
+            "total": "65",
+            "grade": "B"
+        }
+    },
+    "T20211028": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "37.53",
+            "ext": "31.75",
+            "total": "70",
+            "grade": "B"
+        }
+    },
+    "T20211029": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "35.1",
+            "ext": "36.25",
+            "total": "72",
+            "grade": "B"
+        },
+        "MA5104": {
+            "sub": "Advanced Linear Algebra",
+            "int": "41",
+            "ext": "41.0",
+            "total": "82",
+            "grade": "A"
+        }
+    },
+    "T20211032": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "30.0",
+            "ext": "15.25",
+            "total": "46",
+            "grade": "D"
+        }
+    },
+    "T20211033": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "27.5",
+            "ext": "18.5",
+            "total": "46",
+            "grade": "D"
+        }
+    },
+    "T20211034": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "26.0",
+            "ext": "12.0",
+            "total": "38",
+            "grade": "E"
+        }
+    },
+    "T20211036": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "37.2",
+            "ext": "35.75",
+            "total": "73",
+            "grade": "B"
+        }
+    },
+    "T20211037": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "39.9",
+            "ext": "41.25",
+            "total": "82",
+            "grade": "A"
+        }
+    },
+    "T20211038": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "39.3",
+            "ext": "39.0",
+            "total": "79",
+            "grade": "A"
+        },
+        "MN5109": {
+            "sub": "Characterization Techniques",
+            "int": "37.5",
+            "ext": "41.25",
+            "total": "79",
+            "grade": "A"
+        }
+    },
+    "T20211040": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "35.7",
+            "ext": "13.25",
+            "total": "49",
+            "grade": "D"
+        },
+        "EC5107": {
+            "sub": "Nanomaterials and Nanoelectronics Devices",
+            "int": "43",
+            "ext": "39.0",
+            "total": "82",
+            "grade": "A"
+        }
+    },
+    "T20211041": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "38.27",
+            "ext": "37.75",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "T20211042": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "33.67",
+            "ext": "38.25",
+            "total": "72",
+            "grade": "B"
+        }
+    },
+    "T20211043": {
+        "BA5101": {
+            "sub": "Research Methodology",
+            "int": "34.0",
+            "ext": "23.25",
+            "total": "58",
+            "grade": "C"
+        },
+        "MN5109": {
+            "sub": "Characterization Techniques",
+            "int": "39.5",
+            "ext": "40.5",
+            "total": "80",
+            "grade": "A"
+        }
+    },
+    "201910015": {
+        "CS5115": {
+            "sub": "Natural Language Processing",
+            "int": "36",
+            "ext": "42.5",
+            "total": "79",
+            "grade": "A"
+        },
+        "CS5116": {
+            "sub": "Principles of Programming Language",
+            "int": "34",
+            "ext": "42.5",
+            "total": "77",
+            "grade": "A"
+        }
+    },
+    "201910017": {
+        "CS5117": {
+            "sub": "Advanced Adhoc Wireless N/w",
+            "int": "40.13",
+            "ext": "41.75",
+            "total": "82",
+            "grade": "A"
+        },
+        "CS5118": {
+            "sub": "Routing Protocol for Mobile N/w",
+            "int": "40",
+            "ext": "40.0",
+            "total": "80",
+            "grade": "A"
+        }
+    },
+    "202110002": {
+        "CS5119": {
+            "sub": "Adv. Digital Image Processing",
+            "int": "46",
+            "ext": "44.5",
+            "total": "91",
+            "grade": "S"
+        },
+        "CS5122": {
+            "sub": "Computational Intelligence",
+            "int": "46",
+            "ext": "45.5",
+            "total": "92",
+            "grade": "S"
+        }
+    },
+    "202110004": {
+        "CS5120": {
+            "sub": "Cyber Security",
+            "int": "41",
+            "ext": "43.75",
+            "total": "85",
+            "grade": "S"
+        },
+        "CS5121": {
+            "sub": "Internet of Things",
+            "int": "46",
+            "ext": "44.0",
+            "total": "90",
+            "grade": "S"
+        }
+    }
+}
