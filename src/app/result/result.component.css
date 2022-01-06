@@ -1,5 +1,5 @@
 .body{
-    padding: 14% 30% 3% 30%; 
+    padding: 100px 30% 3% 30%; 
 }
 
 .result-box{
@@ -68,6 +68,6 @@
 
 @media (max-width:600px){
     .body{
-        padding: 28% 3% 3% 3%; 
+        padding: 90px 3% 3% 3%; 
     }
 }
