@@ -1,5 +1,6 @@
-# GpaPro
+# GPA-Pro
 Website to check End Semester Result of SMIT Student. 
+
 # Development
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
